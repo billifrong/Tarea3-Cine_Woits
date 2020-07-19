@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1575511296 source:c:\users\bastian rodriguez\desktop\cine_woits\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1575511296 c:\users\bastian rodriguez\desktop\cine_woits\list.h
+
+1575511298 source:c:\users\bastian rodriguez\desktop\cine_woits\main1.c
+	<stdio.h>
+	<stdlib.h>
+	"SortedMap.h"
+
+1575511296 c:\users\bastian rodriguez\desktop\cine_woits\sortedmap.h
+
+1575511296 source:c:\users\bastian rodriguez\desktop\cine_woits\main2.c
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+
+1590439382 source:c:\users\bastian rodriguez\desktop\cine_woits\sortedmap.c
+	"SortedMap.h"
+	<stdlib.h>
+	<assert.h>
+
+1575511296 source:c:\users\bastian rodriguez\desktop\cine_woits\map.c
+	"Map.h"
+	<math.h>
+	<string.h>
+	<stdlib.h>
+	<stdint.h>
+	<assert.h>
+
+1575511296 c:\users\bastian rodriguez\desktop\cine_woits\map.h
+
+1595196066 source:c:\users\bastian rodriguez\desktop\cine_woits\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Map.h"
+	"List.h"
+	"SortedMap.h"
+

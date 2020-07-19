@@ -1,0 +1,719 @@
+Position,Const,Created,Modified,Description,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+1,tt0033467,2018-10-19,2018-10-19,,Citizen Kane,https://www.imdb.com/title/tt0033467/,movie,8.3,119,1941,"Drama, Mystery",382599,1941-05-01,Orson Welles
+2,tt0068646,2018-10-19,2018-10-19,,The Godfather,https://www.imdb.com/title/tt0068646/,movie,9.2,175,1972,"Crime, Drama",1542484,1972-03-14,Francis Ford Coppola
+3,tt0047396,2018-10-19,2018-10-19,,Rear Window,https://www.imdb.com/title/tt0047396/,movie,8.4,112,1954,"Mystery, Thriller",424383,1954-08-04,Alfred Hitchcock
+4,tt0034583,2018-10-19,2018-10-19,,Casablanca,https://www.imdb.com/title/tt0034583/,movie,8.5,102,1942,"Drama, Romance, War",501896,1942-11-26,Michael Curtiz
+5,tt1065073,2018-10-19,2018-10-19,,Boyhood,https://www.imdb.com/title/tt1065073/,movie,7.9,165,2014,Drama,327184,2014-01-19,Richard Linklater
+6,tt0111495,2018-10-19,2018-10-19,,Trois couleurs: Rouge,https://www.imdb.com/title/tt0111495/,movie,8.1,99,1994,"Drama, Mystery, Romance",85282,1994-05-16,Krzysztof Kieslowski
+7,tt0052357,2018-10-19,2018-10-19,,Vertigo,https://www.imdb.com/title/tt0052357/,movie,8.3,128,1958,"Mystery, Romance, Thriller",343665,1958-05-09,Alfred Hitchcock
+8,tt0038787,2018-10-19,2018-10-19,,Notorious,https://www.imdb.com/title/tt0038787/,movie,7.9,102,1946,"Drama, Film-Noir, Romance, Thriller",88909,1946-08-15,Alfred Hitchcock
+9,tt0045152,2018-10-19,2018-10-19,,Singin' in the Rain,https://www.imdb.com/title/tt0045152/,movie,8.3,103,1952,"Comedy, Musical, Romance",209203,1952-03-27,"Gene Kelly, Stanley Donen"
+10,tt0040897,2018-10-19,2018-10-19,,The Treasure of the Sierra Madre,https://www.imdb.com/title/tt0040897/,movie,8.2,126,1948,"Adventure, Drama, Western",109329,1948-01-14,John Huston
+11,tt4975722,2018-10-19,2018-10-19,,Moonlight,https://www.imdb.com/title/tt4975722/,movie,7.4,111,2016,Drama,255140,2016-09-02,Barry Jenkins
+12,tt0052311,2018-10-19,2018-10-19,,Touch of Evil,https://www.imdb.com/title/tt0052311/,movie,8.0,95,1958,"Crime, Drama, Film-Noir, Thriller",95744,1958-03-30,Orson Welles
+13,tt0033563,2018-10-19,2018-10-19,,Dumbo,https://www.imdb.com/title/tt0033563/,movie,7.2,64,1941,"Animation, Drama, Family, Musical",115023,1941-10-23,"Jack Kinney, Ben Sharpsteen, Samuel Armstrong, John Elliotte, Wilfred Jackson, Norman Ferguson, Bill Roberts"
+14,tt0457430,2018-10-19,2018-10-19,,El laberinto del fauno,https://www.imdb.com/title/tt0457430/,movie,8.2,118,2006,"Drama, Fantasy, War",598940,2006-05-27,Guillermo del Toro
+15,tt0053125,2018-10-19,2018-10-19,,North by Northwest,https://www.imdb.com/title/tt0053125/,movie,8.3,136,1959,"Adventure, Mystery, Thriller",286646,1959-07-01,Alfred Hitchcock
+16,tt0042192,2018-10-19,2018-10-19,,All About Eve,https://www.imdb.com/title/tt0042192/,movie,8.2,138,1950,Drama,115506,1950-10-13,Joseph L. Mankiewicz
+17,tt0110057,2018-10-19,2018-10-19,,Hoop Dreams,https://www.imdb.com/title/tt0110057/,movie,8.3,170,1994,"Documentary, Drama, Sport",23327,1994-01-31,Steve James
+18,tt0097937,2018-10-19,2018-10-19,,My Left Foot: The Story of Christy Brown,https://www.imdb.com/title/tt0097937/,movie,7.9,103,1989,"Biography, Drama",64837,1989-02-24,Jim Sheridan
+19,tt0041959,2018-10-19,2018-10-19,,The Third Man,https://www.imdb.com/title/tt0041959/,movie,8.1,104,1949,"Film-Noir, Mystery, Thriller",152725,1949-05-31,Carol Reed
+20,tt0031381,2018-10-19,2018-10-19,,Gone with the Wind,https://www.imdb.com/title/tt0031381/,movie,8.1,238,1939,"Drama, History, Romance, War",277813,1939-12-15,"Sam Wood, George Cukor, Victor Fleming"
+21,tt1032846,2018-10-19,2018-10-19,,"4 luni, 3 saptamâni si 2 zile",https://www.imdb.com/title/tt1032846/,movie,7.9,113,2007,Drama,54627,2007-05-17,Cristian Mungiu
+22,tt0053291,2018-10-19,2018-10-19,,Some Like It Hot,https://www.imdb.com/title/tt0053291/,movie,8.2,121,1959,"Comedy, Music, Romance",233918,1959-03-19,Billy Wilder
+23,tt0054215,2018-10-19,2018-10-19,,Psycho,https://www.imdb.com/title/tt0054215/,movie,8.5,109,1960,"Horror, Mystery, Thriller",574051,1960-06-16,Alfred Hitchcock
+24,tt0069704,2018-10-19,2018-10-19,,American Graffiti,https://www.imdb.com/title/tt0069704/,movie,7.4,110,1973,"Comedy, Drama",78533,1973-08-01,George Lucas
+25,tt0089881,2018-10-19,2018-10-19,,Ran,https://www.imdb.com/title/tt0089881/,movie,8.2,162,1985,"Action, Drama, War",106032,1985-05-25,Akira Kurosawa
+26,tt2024544,2018-10-19,2018-10-19,,12 Years a Slave,https://www.imdb.com/title/tt2024544/,movie,8.1,134,2013,"Biography, Drama, History",613666,2013-08-30,Steve McQueen
+27,tt0050083,2018-10-19,2018-10-19,,12 Angry Men,https://www.imdb.com/title/tt0050083/,movie,8.9,96,1957,"Crime, Drama",654146,1957-04-10,Sidney Lumet
+28,tt4034228,2018-10-19,2018-10-19,,Manchester by the Sea,https://www.imdb.com/title/tt4034228/,movie,7.8,137,2016,Drama,233052,2016-01-23,Kenneth Lonergan
+29,tt0063522,2018-10-19,2018-10-19,,Rosemary's Baby,https://www.imdb.com/title/tt0063522/,movie,8.0,137,1968,"Drama, Horror",183478,1968-06-12,Roman Polanski
+30,tt0033870,2018-10-19,2018-10-19,,The Maltese Falcon,https://www.imdb.com/title/tt0033870/,movie,8.0,100,1941,"Film-Noir, Mystery",145123,1941-10-03,John Huston
+31,tt0057012,2018-10-19,2018-10-19,,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,https://www.imdb.com/title/tt0057012/,movie,8.4,95,1964,Comedy,434696,1964-01-29,Stanley Kubrick
+32,tt0382932,2018-10-19,2018-10-19,,Ratatouille,https://www.imdb.com/title/tt0382932/,movie,8.0,111,2007,"Animation, Adventure, Comedy, Drama, Family, Fantasy",615373,2007-06-22,"Brad Bird, Jan Pinkava"
+33,tt6155172,2018-10-19,2018-10-19,,Roma,https://www.imdb.com/title/tt6155172/,movie,7.7,135,2018,Drama,129785,2018-08-30,Alfonso Cuarón
+34,tt0044081,2018-10-19,2018-10-19,,A Streetcar Named Desire,https://www.imdb.com/title/tt0044081/,movie,8.0,122,1951,Drama,95625,1951-09-09,Elia Kazan
+35,tt0070379,2018-10-19,2018-10-19,,Mean Streets,https://www.imdb.com/title/tt0070379/,movie,7.3,112,1973,"Crime, Drama, Thriller",94241,1973-10-02,Martin Scorsese
+36,tt1454468,2018-10-19,2018-10-19,,Gravity,https://www.imdb.com/title/tt1454468/,movie,7.7,91,2013,"Drama, Sci-Fi, Thriller",746243,2013-08-28,Alfonso Cuarón
+37,tt0245429,2018-10-19,2018-10-19,,Sen to Chihiro no kamikakushi,https://www.imdb.com/title/tt0245429/,movie,8.6,125,2001,"Animation, Adventure, Family, Fantasy, Mystery",609192,2001-07-20,Hayao Miyazaki
+38,tt0101414,2018-10-19,2018-10-19,,Beauty and the Beast,https://www.imdb.com/title/tt0101414/,movie,8.0,84,1991,"Animation, Family, Fantasy, Musical, Romance",406482,1991-09-29,"Gary Trousdale, Kirk Wise"
+39,tt2402927,2018-10-19,2018-10-19,,Carol,https://www.imdb.com/title/tt2402927/,movie,7.2,118,2015,"Drama, Romance",109195,2015-05-17,Todd Haynes
+40,tt0114709,2018-10-19,2018-10-19,,Toy Story,https://www.imdb.com/title/tt0114709/,movie,8.3,81,1995,"Animation, Adventure, Comedy, Family, Fantasy",851172,1995-11-19,John Lasseter
+41,tt0032551,2018-10-19,2018-10-19,,The Grapes of Wrath,https://www.imdb.com/title/tt0032551/,movie,8.0,129,1940,"Drama, History",83790,1940-01-24,John Ford
+42,tt1285016,2018-10-19,2018-10-19,,The Social Network,https://www.imdb.com/title/tt1285016/,movie,7.7,120,2010,"Biography, Drama",598361,2010-09-24,David Fincher
+43,tt5804038,2018-10-19,2018-10-19,,I Am Not Your Negro,https://www.imdb.com/title/tt5804038/,movie,7.8,93,2016,Documentary,15424,2016-09-10,Raoul Peck
+44,tt0036775,2018-10-19,2018-10-19,,Double Indemnity,https://www.imdb.com/title/tt0036775/,movie,8.3,107,1944,"Crime, Drama, Film-Noir, Mystery, Thriller",136663,1944-06-14,Billy Wilder
+45,tt0029583,2018-10-19,2018-10-19,,Snow White and the Seven Dwarfs,https://www.imdb.com/title/tt0029583/,movie,7.6,83,1937,"Animation, Family, Fantasy, Musical, Romance",174486,1937-12-21,"William Cottrell, David Hand, Perce Pearce, Ben Sharpsteen, Wilfred Jackson, Larry Morey"
+46,tt1790885,2018-10-19,2018-10-19,,Zero Dark Thirty,https://www.imdb.com/title/tt1790885/,movie,7.4,157,2012,"Drama, History, Thriller, War",262400,2012-12-10,Kathryn Bigelow
+47,tt1832382,2018-10-19,2018-10-19,,Jodaeiye Nader az Simin,https://www.imdb.com/title/tt1832382/,movie,8.3,123,2011,Drama,210359,2011-02-01,Asghar Farhadi
+48,tt0910970,2018-10-19,2018-10-19,,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",960288,2008-06-21,Andrew Stanton
+49,tt2209418,2018-10-19,2018-10-19,,Before Midnight,https://www.imdb.com/title/tt2209418/,movie,7.9,109,2013,"Drama, Romance",132731,2013-01-20,Richard Linklater
+50,tt5013056,2018-10-19,2018-10-19,,Dunkirk,https://www.imdb.com/title/tt5013056/,movie,7.9,106,2017,"Action, Drama, History, Thriller, War",515594,2017-07-13,Christopher Nolan
+51,tt0056217,2018-10-19,2018-10-19,,The Man Who Shot Liberty Valance,https://www.imdb.com/title/tt0056217/,movie,8.1,123,1962,"Drama, Western",66052,1962-04-13,John Ford
+52,tt3544082,2018-10-19,2018-10-19,,45 Years,https://www.imdb.com/title/tt3544082/,movie,7.1,91,2015,"Drama, Romance",29682,2015-02-06,Andrew Haigh
+53,tt0075314,2018-10-19,2018-10-19,,Taxi Driver,https://www.imdb.com/title/tt0075314/,movie,8.3,114,1976,"Crime, Drama",689171,1976-02-08,Martin Scorsese
+54,tt0056218,2018-10-19,2018-10-19,,The Manchurian Candidate,https://www.imdb.com/title/tt0056218/,movie,7.9,126,1962,"Drama, Thriller",69530,1962-10-24,John Frankenheimer
+55,tt0110912,2018-10-19,2018-10-19,,Pulp Fiction,https://www.imdb.com/title/tt0110912/,movie,8.9,154,1994,"Crime, Drama",1752940,1994-05-21,Quentin Tarantino
+56,tt0076263,2018-10-19,2018-10-19,,Killer of Sheep,https://www.imdb.com/title/tt0076263/,movie,7.3,80,1978,Drama,5771,1978-11-14,Charles Burnett
+57,tt2473794,2018-10-19,2018-10-19,,Mr. Turner,https://www.imdb.com/title/tt2473794/,movie,6.8,150,2014,"Biography, Drama, History",23664,2014-05-15,Mike Leigh
+58,tt0887912,2018-10-19,2018-10-19,,The Hurt Locker,https://www.imdb.com/title/tt0887912/,movie,7.6,131,2008,"Drama, Thriller, War",409228,2008-09-04,Kathryn Bigelow
+59,tt0036342,2018-10-19,2018-10-19,,Shadow of a Doubt,https://www.imdb.com/title/tt0036342/,movie,7.8,108,1943,Thriller,56856,1943-01-12,Alfred Hitchcock
+60,tt2096673,2018-10-19,2018-10-19,,Inside Out,https://www.imdb.com/title/tt2096673/,movie,8.1,95,2015,"Animation, Adventure, Comedy, Drama, Family, Fantasy",580621,2015-05-18,"Pete Docter, Ronnie Del Carmen"
+61,tt0375063,2018-10-19,2018-10-19,,Sideways,https://www.imdb.com/title/tt0375063/,movie,7.5,127,2004,"Comedy, Drama, Romance",175135,2004-09-13,Alexander Payne
+62,tt0078788,2018-10-19,2018-10-19,,Apocalypse Now,https://www.imdb.com/title/tt0078788/,movie,8.4,147,1979,"Drama, Mystery, War",580701,1979-05-19,Francis Ford Coppola
+63,tt0042531,2018-10-19,2018-10-19,,The Gunfighter,https://www.imdb.com/title/tt0042531/,movie,7.7,85,1950,Western,9066,1950-05-26,Henry King
+64,tt1787837,2018-10-19,2018-10-19,,We Were Here,https://www.imdb.com/title/tt1787837/,movie,7.9,90,2011,"Documentary, Biography, History, News",1923,2011-01-31,"David Weissman, Bill Weber"
+65,tt4925292,2018-10-19,2018-10-19,,Lady Bird,https://www.imdb.com/title/tt4925292/,movie,7.4,94,2017,"Comedy, Drama",216816,2017-09-01,Greta Gerwig
+66,tt0167260,2018-10-19,2018-10-19,,The Lord of the Rings: The Return of the King,https://www.imdb.com/title/tt0167260/,movie,8.9,201,2003,"Adventure, Drama, Fantasy",1582277,2003-12-01,Peter Jackson
+67,tt1321865,2018-10-19,2018-10-19,,Carlos,https://www.imdb.com/title/tt1321865/,tvMiniSeries,7.6,334,2010,"Biography, Crime, Drama, Thriller",12573,2010-05-19,
+68,tt0113725,2018-10-19,2018-10-19,,Maboroshi no hikari,https://www.imdb.com/title/tt0113725/,movie,7.5,110,1995,Drama,4484,1995-09-08,Hirokazu Koreeda
+69,tt5598102,2018-10-19,2018-10-19,,Visages villages,https://www.imdb.com/title/tt5598102/,movie,7.9,94,2017,Documentary,9829,2017-05-19,"Agnès Varda, JR"
+70,tt1602620,2018-10-19,2018-10-19,,Amour,https://www.imdb.com/title/tt1602620/,movie,7.9,127,2012,"Drama, Romance",89666,2012-05-20,Michael Haneke
+71,tt0057490,2018-10-19,2018-10-19,,The Servant,https://www.imdb.com/title/tt0057490/,movie,7.9,116,1963,Drama,9550,1963-09-03,Joseph Losey
+72,tt0100486,2018-10-19,2018-10-19,,Reversal of Fortune,https://www.imdb.com/title/tt0100486/,movie,7.2,111,1990,"Biography, Drama, Mystery",14007,1990-09-12,Barbet Schroeder
+73,tt0190332,2018-10-19,2018-10-19,,Wo hu cang long,https://www.imdb.com/title/tt0190332/,movie,7.8,120,2000,"Action, Adventure, Fantasy, Romance",247348,2000-05-18,Ang Lee
+74,tt4048272,2018-10-19,2018-10-19,,Toni Erdmann,https://www.imdb.com/title/tt4048272/,movie,7.4,162,2016,"Comedy, Drama",41873,2016-05-14,Maren Ade
+75,tt7476236,2018-10-19,2018-10-19,,Minding the Gap,https://www.imdb.com/title/tt7476236/,movie,8.1,93,2018,Documentary,6804,2018-01-21,Bing Liu
+76,tt1895587,2018-10-19,2018-10-19,,Spotlight,https://www.imdb.com/title/tt1895587/,movie,8.1,129,2015,"Biography, Crime, Drama",396920,2015-09-03,Tom McCarthy
+77,tt8075192,2018-10-19,2018-10-19,,Manbiki kazoku,https://www.imdb.com/title/tt8075192/,movie,8.0,121,2018,"Crime, Drama",51794,2018-05-13,Hirokazu Koreeda
+78,tt0108052,2018-10-19,2018-10-19,,Schindler's List,https://www.imdb.com/title/tt0108052/,movie,8.9,195,1993,"Biography, Drama, History",1163392,1993-11-30,Steven Spielberg
+79,tt5726616,2018-10-19,2018-10-19,,Call Me by Your Name,https://www.imdb.com/title/tt5726616/,movie,7.9,132,2017,"Drama, Romance",189958,2017-01-22,Luca Guadagnino
+80,tt0244316,2018-10-19,2018-10-19,,Yi yi,https://www.imdb.com/title/tt0244316/,movie,8.1,173,2000,"Drama, Romance",18838,2000-05-15,Edward Yang
+81,tt3783958,2018-10-19,2018-10-19,,La La Land,https://www.imdb.com/title/tt3783958/,movie,8.0,128,2016,"Comedy, Drama, Music, Musical, Romance",476410,2016-08-31,Damien Chazelle
+82,tt2042568,2018-10-19,2018-10-19,,Inside Llewyn Davis,https://www.imdb.com/title/tt2042568/,movie,7.5,104,2013,"Comedy, Drama, Music",132900,2013-05-19,"Joel Coen, Ethan Coen"
+83,tt3746250,2018-10-19,2018-10-19,,Sherpa,https://www.imdb.com/title/tt3746250/,movie,7.7,96,2015,Documentary,2483,2015-06-07,Jennifer Peedom
+84,tt0469494,2018-10-19,2018-10-19,,There Will Be Blood,https://www.imdb.com/title/tt0469494/,movie,8.2,158,2007,Drama,493157,2007-09-27,Paul Thomas Anderson
+85,tt0069762,2018-10-19,2018-10-19,,Badlands,https://www.imdb.com/title/tt0069762/,movie,7.8,94,1973,"Crime, Drama",62539,1973-10-13,Terrence Malick
+86,tt0067328,2018-10-19,2018-10-19,,The Last Picture Show,https://www.imdb.com/title/tt0067328/,movie,8.0,118,1971,"Drama, Romance",40233,1971-10-02,Peter Bogdanovich
+87,tt1172203,2018-10-19,2018-10-19,,Sita Sings the Blues,https://www.imdb.com/title/tt1172203/,movie,7.6,82,2008,"Animation, Comedy, Fantasy, Musical, Romance",4363,2008-02-11,Nina Paley
+88,tt0082252,2018-10-19,2018-10-19,,The Decline of Western Civilization,https://www.imdb.com/title/tt0082252/,movie,7.6,100,1981,"Documentary, History, Music",3400,1981-07-01,Penelope Spheeris
+89,tt0077405,2018-10-19,2018-10-19,,Days of Heaven,https://www.imdb.com/title/tt0077405/,movie,7.9,94,1978,"Drama, Romance",49620,1978-09-13,Terrence Malick
+90,tt0109508,2018-10-19,2018-10-19,,Crumb,https://www.imdb.com/title/tt0109508/,movie,8.0,119,1994,"Documentary, Biography, Comedy",17813,1994-09-10,Terry Zwigoff
+91,tt5777628,2018-10-19,2018-10-19,,One More Time with Feeling,https://www.imdb.com/title/tt5777628/,movie,8.3,113,2016,"Documentary, Music",4128,2016-09-02,Andrew Dominik
+92,tt0401383,2018-10-19,2018-10-19,,Le scaphandre et le papillon,https://www.imdb.com/title/tt0401383/,movie,8.0,112,2007,"Biography, Drama",101082,2007-05-22,Julian Schnabel
+93,tt0049366,2018-10-19,2018-10-19,,Invasion of the Body Snatchers,https://www.imdb.com/title/tt0049366/,movie,7.7,80,1956,"Drama, Horror, Sci-Fi",43127,1956-02-05,Don Siegel
+94,tt1068646,2018-10-19,2018-10-19,,Entre les murs,https://www.imdb.com/title/tt1068646/,movie,7.5,128,2008,Drama,33249,2008-05-24,Laurent Cantet
+95,tt0091763,2018-10-19,2018-10-19,,Platoon,https://www.imdb.com/title/tt0091763/,movie,8.1,120,1986,"Drama, War",368451,1986-12-19,Oliver Stone
+96,tt1100048,2018-10-19,2018-10-19,,35 rhums,https://www.imdb.com/title/tt1100048/,movie,7.1,100,2008,Drama,4094,2008-09-02,Claire Denis
+97,tt0103888,2018-10-19,2018-10-19,,Brother's Keeper,https://www.imdb.com/title/tt0103888/,movie,7.5,104,1992,"Documentary, Crime, Mystery",3792,1992-01-31,"Joe Berlinger, Bruce Sinofsky"
+98,tt0071315,2018-10-19,2018-10-19,,Chinatown,https://www.imdb.com/title/tt0071315/,movie,8.2,130,1974,"Drama, Mystery, Thriller",281433,1974-06-20,Roman Polanski
+99,tt5649144,2018-10-19,2018-10-19,,The Florida Project,https://www.imdb.com/title/tt5649144/,movie,7.6,111,2017,Drama,85087,2017-05-22,Sean Baker
+100,tt3409392,2018-10-19,2018-10-19,,Timbuktu,https://www.imdb.com/title/tt3409392/,movie,7.1,96,2014,"Drama, War",15632,2014-05-15,Abderrahmane Sissako
+101,tt0078788,2018-10-19,2018-10-19,,Apocalypse Now,https://www.imdb.com/title/tt0078788/,movie,8.4,147,1979,"Drama, Mystery, War",580701,1979-05-19,Francis Ford Coppola
+102,tt0075686,2018-10-19,2018-10-19,,Annie Hall,https://www.imdb.com/title/tt0075686/,movie,8.0,93,1977,"Comedy, Romance",245463,1977-03-27,Woody Allen
+103,tt0120737,2018-10-19,2018-10-19,,The Lord of the Rings: The Fellowship of the Ring,https://www.imdb.com/title/tt0120737/,movie,8.8,178,2001,"Action, Adventure, Drama, Fantasy",1595469,2001-12-10,Peter Jackson
+104,tt2802154,2018-10-19,2018-10-19,,Leviafan,https://www.imdb.com/title/tt2802154/,movie,7.6,140,2014,"Crime, Drama",46816,2014-05-23,Andrey Zvyagintsev
+105,tt0036868,2018-10-19,2018-10-19,,The Best Years of Our Lives,https://www.imdb.com/title/tt0036868/,movie,8.0,170,1946,"Drama, Romance, War",55467,1946-11-21,William Wyler
+106,tt0249241,2018-10-19,2018-10-19,,Werckmeister harmóniák,https://www.imdb.com/title/tt0249241/,movie,8.2,145,2000,"Drama, Mystery",12079,2000-05-31,"Béla Tarr, Ágnes Hranitzky"
+107,tt0435761,2018-10-19,2018-10-19,,Toy Story 3,https://www.imdb.com/title/tt0435761/,movie,8.3,103,2010,"Animation, Adventure, Comedy, Family, Fantasy",729434,2010-06-12,Lee Unkrich
+108,tt3521134,2018-10-19,2018-10-19,,The Look of Silence,https://www.imdb.com/title/tt3521134/,movie,8.3,103,2014,"Documentary, Biography, History",11146,2014-08-28,Joshua Oppenheimer
+109,tt5116410,2018-10-19,2018-10-19,,Tower,https://www.imdb.com/title/tt5116410/,movie,8.0,82,2016,"Documentary, Animation, Crime",7028,2016-03-13,Keith Maitland
+110,tt6217608,2018-10-19,2018-10-19,,The Rider,https://www.imdb.com/title/tt6217608/,movie,7.4,104,2017,"Drama, Western",12280,2017-05-20,Chloé Zhao
+111,tt0416991,2018-10-19,2018-10-19,,Moolaadé,https://www.imdb.com/title/tt0416991/,movie,7.6,124,2004,Drama,3440,2004-05-15,Ousmane Sembene
+112,tt0285441,2018-10-19,2018-10-19,,Atanarjuat,https://www.imdb.com/title/tt0285441/,movie,7.5,172,2001,Drama,6150,2001-05-13,Zacharias Kunuk
+113,tt0088258,2018-10-19,2018-10-19,,This Is Spinal Tap,https://www.imdb.com/title/tt0088258/,movie,7.9,82,1984,"Comedy, Music",124886,1984-03-02,Rob Reiner
+114,tt0078902,2018-10-19,2018-10-19,,Breaking Away,https://www.imdb.com/title/tt0078902/,movie,7.7,101,1979,"Comedy, Drama, Romance, Sport",20931,1979-07-13,Peter Yates
+115,tt0165078,2018-10-19,2018-10-19,,Wandafuru raifu,https://www.imdb.com/title/tt0165078/,movie,7.7,119,1998,"Drama, Fantasy",9492,1998-09-11,Hirokazu Koreeda
+116,tt0061512,2018-10-19,2018-10-19,,Cool Hand Luke,https://www.imdb.com/title/tt0061512/,movie,8.1,127,1967,"Crime, Drama",155930,1967-11-01,Stuart Rosenberg
+117,tt0043265,2018-10-19,2018-10-19,,The African Queen,https://www.imdb.com/title/tt0043265/,movie,7.7,105,1951,"Adventure, Drama, Romance, War",69226,1951-12-26,John Huston
+118,tt0286244,2018-10-19,2018-10-19,,Les triplettes de Belleville,https://www.imdb.com/title/tt0286244/,movie,7.8,80,2003,"Animation, Comedy, Drama",49486,2003-05-18,Sylvain Chomet
+119,tt0436697,2018-10-19,2018-10-19,,The Queen,https://www.imdb.com/title/tt0436697/,movie,7.3,103,2006,"Biography, Drama, History",101117,2006-09-02,Stephen Frears
+120,tt0048281,2018-10-19,2018-10-19,,The Ladykillers,https://www.imdb.com/title/tt0048281/,movie,7.7,91,1955,"Comedy, Crime",25213,1955-12-08,Alexander Mackendrick
+121,tt0032155,2018-10-19,2018-10-19,,Young Mr. Lincoln,https://www.imdb.com/title/tt0032155/,movie,7.6,100,1939,"Biography, Drama, History",7133,1939-05-30,John Ford
+122,tt2366450,2018-10-19,2018-10-19,,Stories We Tell,https://www.imdb.com/title/tt2366450/,movie,7.5,108,2012,Documentary,11933,2012-08-30,Sarah Polley
+123,tt5083738,2018-10-19,2018-10-19,,The Favourite,https://www.imdb.com/title/tt5083738/,movie,7.6,119,2018,"Biography, Comedy, Drama, History",156971,2018-08-30,Yorgos Lanthimos
+124,tt4359416,2018-10-19,2018-10-19,,Taxi,https://www.imdb.com/title/tt4359416/,movie,7.3,82,2015,"Comedy, Drama",12896,2015-02-06,Jafar Panahi
+125,tt0209933,2018-10-19,2018-10-19,,Beau travail,https://www.imdb.com/title/tt0209933/,movie,7.4,92,1999,"Drama, War",7583,1999-09-04,Claire Denis
+126,tt0097216,2018-10-19,2018-10-19,,Do the Right Thing,https://www.imdb.com/title/tt0097216/,movie,7.9,120,1989,"Comedy, Drama",80864,1989-05-19,Spike Lee
+127,tt1185616,2018-10-19,2018-10-19,,Vals Im Bashir,https://www.imdb.com/title/tt1185616/,movie,8.0,90,2008,"Documentary, Animation, Biography, Drama, History, Mystery, War",53913,2008-05-15,Ari Folman
+128,tt6209282,2018-10-19,2018-10-19,,Ex Libris: The New York Public Library,https://www.imdb.com/title/tt6209282/,movie,7.4,197,2017,Documentary,1013,2017-09-04,Frederick Wiseman
+129,tt0117589,2018-10-19,2018-10-19,,Secrets & Lies,https://www.imdb.com/title/tt0117589/,movie,8.0,136,1996,"Comedy, Drama",35474,1996-05-10,Mike Leigh
+130,tt0066206,2018-10-19,2018-10-19,,Patton,https://www.imdb.com/title/tt0066206/,movie,7.9,172,1970,"Biography, Drama, War",91361,1970-02-04,Franklin J. Schaffner
+131,tt0086197,2018-10-19,2018-10-19,,The Right Stuff,https://www.imdb.com/title/tt0086197/,movie,7.8,193,1983,"Adventure, Biography, Drama, History",54286,1983-10-21,Philip Kaufman
+132,tt0477348,2018-10-19,2018-10-19,,No Country for Old Men,https://www.imdb.com/title/tt0477348/,movie,8.1,122,2007,"Crime, Drama, Thriller",814518,2007-05-19,"Joel Coen, Ethan Coen"
+133,tt2309788,2018-10-19,2018-10-19,,The Gatekeepers,https://www.imdb.com/title/tt2309788/,movie,7.6,101,2012,"Documentary, History, War",5355,2012-07-10,Dror Moreh
+134,tt1556190,2018-10-19,2018-10-19,,Nostalgia de la luz,https://www.imdb.com/title/tt1556190/,movie,7.6,90,2010,Documentary,4639,2010-05-14,Patricio Guzmán
+135,tt2718492,2018-10-19,2018-10-19,,Ida,https://www.imdb.com/title/tt2718492/,movie,7.4,82,2013,Drama,50592,2013-08-30,Pawel Pawlikowski
+136,tt0088680,2018-10-19,2018-10-19,,After Hours,https://www.imdb.com/title/tt0088680/,movie,7.7,97,1985,"Comedy, Crime, Drama, Thriller",54895,1985-09-11,Martin Scorsese
+137,tt5895028,2018-10-19,2018-10-19,,13th,https://www.imdb.com/title/tt5895028/,movie,8.2,100,2016,"Documentary, Crime, News",21999,2016-09-30,Ava DuVernay
+138,tt0104036,2018-10-19,2018-10-19,,The Crying Game,https://www.imdb.com/title/tt0104036/,movie,7.2,112,1992,"Crime, Drama, Romance, Thriller",49406,1992-09-02,Neil Jordan
+139,tt6896536,2018-10-19,2018-10-19,,Foxtrot,https://www.imdb.com/title/tt6896536/,movie,7.3,113,2017,Drama,5971,2017-08-28,Samuel Maoz
+140,tt1399683,2018-10-19,2018-10-19,,Winter's Bone,https://www.imdb.com/title/tt1399683/,movie,7.2,100,2010,"Drama, Mystery",132156,2010-01-21,Debra Granik
+141,tt3062880,2018-10-19,2018-10-19,,Gett,https://www.imdb.com/title/tt3062880/,movie,7.7,115,2014,Drama,5877,2014-05-16,"Ronit Elkabetz, Shlomi Elkabetz"
+142,tt4170344,2018-10-19,2018-10-19,,I Called Him Morgan,https://www.imdb.com/title/tt4170344/,movie,7.3,92,2016,"Documentary, Drama, History, Music",1352,2016-09-01,Kasper Collin
+143,tt0075860,2018-10-19,2018-10-19,,Close Encounters of the Third Kind,https://www.imdb.com/title/tt0075860/,movie,7.6,138,1977,"Drama, Sci-Fi",176881,1977-11-15,Steven Spielberg
+144,tt0071562,2018-10-19,2018-10-19,,The Godfather: Part II,https://www.imdb.com/title/tt0071562/,movie,9.0,202,1974,"Crime, Drama",1078856,1974-12-12,Francis Ford Coppola
+145,tt0119488,2018-10-19,2018-10-19,,L.A. Confidential,https://www.imdb.com/title/tt0119488/,movie,8.2,138,1997,"Crime, Drama, Mystery, Thriller",514732,1997-05-14,Curtis Hanson
+146,tt0280491,2018-10-19,2018-10-19,,Bloody Sunday,https://www.imdb.com/title/tt0280491/,movie,7.6,107,2002,"Drama, History, War",22717,2002-01-16,Paul Greengrass
+147,tt0173772,2018-10-19,2018-10-19,,Il mio viaggio in Italia,https://www.imdb.com/title/tt0173772/,movie,8.2,246,1999,Documentary,2917,1999-09-11,Martin Scorsese
+148,tt0120815,2018-10-19,2018-10-19,,Saving Private Ryan,https://www.imdb.com/title/tt0120815/,movie,8.6,169,1998,"Drama, War",1183717,1998-07-21,Steven Spielberg
+149,tt1798709,2018-10-19,2018-10-19,,Her,https://www.imdb.com/title/tt1798709/,movie,8.0,126,2013,"Drama, Romance, Sci-Fi",511870,2013-10-12,Spike Jonze
+150,tt0120255,2018-10-19,2018-10-19,,The Sweet Hereafter,https://www.imdb.com/title/tt0120255/,movie,7.5,112,1997,Drama,31029,1997-05-15,Atom Egoyan
+151,tt4957446,2018-10-19,2018-10-19,,Kang rinpoche,https://www.imdb.com/title/tt4957446/,movie,7.5,115,2015,Drama,700,2015-09-15,Yang Zhang
+152,tt2396224,2018-10-19,2018-10-19,,It's Such a Beautiful Day,https://www.imdb.com/title/tt2396224/,movie,8.3,62,2012,"Animation, Comedy, Drama, Fantasy",10101,2012-08-24,Don Hertzfeldt
+153,tt1557720,2018-10-19,2018-10-19,,My Perestroika,https://www.imdb.com/title/tt1557720/,movie,7.2,88,2010,"Documentary, Biography, Family, History, News",596,2010-01-24,Robin Hessman
+154,tt1667905,2018-10-19,2018-10-19,,In film nist,https://www.imdb.com/title/tt1667905/,movie,7.4,75,2011,Documentary,4601,2011-05-20,"Mojtaba Mirtahmasb, Jafar Panahi"
+155,tt0266543,2018-10-19,2018-10-19,,Finding Nemo,https://www.imdb.com/title/tt0266543/,movie,8.1,100,2003,"Animation, Adventure, Comedy, Family",915627,2003-05-18,"Andrew Stanton, Lee Unkrich"
+156,tt0151568,2018-10-19,2018-10-19,,Topsy-Turvy,https://www.imdb.com/title/tt0151568/,movie,7.3,160,1999,"Biography, Comedy, Drama, History, Music, Musical",11395,1999-09-03,Mike Leigh
+157,tt0024216,2018-10-19,2018-10-19,,King Kong,https://www.imdb.com/title/tt0024216/,movie,7.9,100,1933,"Adventure, Horror, Sci-Fi",76461,1933-03-02,"Ernest B. Schoedsack, Merian C. Cooper"
+158,tt0317705,2018-10-19,2018-10-19,,The Incredibles,https://www.imdb.com/title/tt0317705/,movie,8.0,115,2004,"Animation, Action, Adventure, Family",634941,2004-10-27,Brad Bird
+159,tt0381681,2018-10-19,2018-10-19,,Before Sunset,https://www.imdb.com/title/tt0381681/,movie,8.0,80,2004,"Drama, Romance",223242,2004-02-10,Richard Linklater
+160,tt0120601,2018-10-19,2018-10-19,,Being John Malkovich,https://www.imdb.com/title/tt0120601/,movie,7.7,113,1999,"Comedy, Drama, Fantasy",299084,1999-09-02,Spike Jonze
+161,tt1235166,2018-10-19,2018-10-19,,Un prophète,https://www.imdb.com/title/tt1235166/,movie,7.9,155,2009,"Crime, Drama",90973,2009-05-16,Jacques Audiard
+162,tt2328813,2018-10-19,2018-10-19,,Trudno byt bogom,https://www.imdb.com/title/tt2328813/,movie,6.7,177,2013,"Drama, Sci-Fi",4575,2013-11-13,Aleksey German
+163,tt0181875,2018-10-19,2018-10-19,,Almost Famous,https://www.imdb.com/title/tt0181875/,movie,7.9,122,2000,"Adventure, Comedy, Drama, Music",243928,2000-09-08,Cameron Crowe
+164,tt5776858,2018-10-19,2018-10-19,,Phantom Thread,https://www.imdb.com/title/tt5776858/,movie,7.5,130,2017,"Drama, Romance",102210,2017-11-24,Paul Thomas Anderson
+165,tt2789532,2018-10-19,2018-10-19,,Big Men,https://www.imdb.com/title/tt2789532/,movie,7.2,99,2013,Documentary,551,2013-04-18,Rachel Boynton
+166,tt0305206,2018-10-19,2018-10-19,,American Splendor,https://www.imdb.com/title/tt0305206/,movie,7.4,101,2003,"Biography, Comedy, Drama",46647,2003-01-20,"Shari Springer Berman, Robert Pulcini"
+167,tt0091167,2018-10-19,2018-10-19,,Hannah and Her Sisters,https://www.imdb.com/title/tt0091167/,movie,7.9,107,1986,"Comedy, Drama",64658,1986-01-25,Woody Allen
+168,tt4015500,2018-10-19,2018-10-19,,The Tale,https://www.imdb.com/title/tt4015500/,movie,7.2,114,2018,"Drama, Mystery, Thriller",13806,2018-01-20,Jennifer Fox
+169,tt0280707,2018-10-19,2018-10-19,,Gosford Park,https://www.imdb.com/title/tt0280707/,movie,7.2,131,2001,"Comedy, Drama, Mystery",77439,2001-11-07,Robert Altman
+170,tt0066999,2018-10-19,2018-10-19,,Dirty Harry,https://www.imdb.com/title/tt0066999/,movie,7.7,102,1971,"Action, Crime, Thriller",138510,1971-12-21,Don Siegel
+171,tt4238858,2018-10-19,2018-10-19,,The Fits,https://www.imdb.com/title/tt4238858/,movie,6.7,72,2015,"Drama, Music",4362,2015-09-04,Anna Rose Holmer
+172,tt6543652,2018-10-19,2018-10-19,,Zimna wojna,https://www.imdb.com/title/tt6543652/,movie,7.6,89,2018,"Drama, History, Music, Romance",43603,2018-05-10,Pawel Pawlikowski
+173,tt0475276,2018-10-19,2018-10-19,,United 93,https://www.imdb.com/title/tt0475276/,movie,7.5,111,2006,"Drama, History, Thriller",95864,2006-04-28,Paul Greengrass
+174,tt1392190,2018-10-19,2018-10-19,,Mad Max: Fury Road,https://www.imdb.com/title/tt1392190/,movie,8.1,120,2015,"Action, Adventure, Sci-Fi, Thriller",837617,2015-05-07,George Miller
+175,tt0064253,2018-10-19,2018-10-19,,Downhill Racer,https://www.imdb.com/title/tt0064253/,movie,6.4,101,1969,"Drama, Sport",3932,1969-10-28,Michael Ritchie
+176,tt0342172,2018-10-19,2018-10-19,,Capturing the Friedmans,https://www.imdb.com/title/tt0342172/,movie,7.7,107,2003,"Documentary, Biography",23307,2003-01-17,Andrew Jarecki
+177,tt0120382,2018-10-19,2018-10-19,,The Truman Show,https://www.imdb.com/title/tt0120382/,movie,8.1,103,1998,"Comedy, Drama, Sci-Fi",891573,1998-06-01,Peter Weir
+178,tt1800241,2018-10-19,2018-10-19,,American Hustle,https://www.imdb.com/title/tt1800241/,movie,7.2,138,2013,"Crime, Drama",435608,2013-12-12,David O. Russell
+179,tt5247022,2018-10-19,2018-10-19,,Paterson,https://www.imdb.com/title/tt5247022/,movie,7.4,118,2016,"Comedy, Drama, Romance",64198,2016-05-16,Jim Jarmusch
+180,tt0076759,2018-10-19,2018-10-19,,Star Wars,https://www.imdb.com/title/tt0076759/,movie,8.6,121,1977,"Action, Adventure, Fantasy, Sci-Fi",1188700,1977-05-25,George Lucas
+181,tt0808417,2018-10-19,2018-10-19,,Persepolis,https://www.imdb.com/title/tt0808417/,movie,8.0,96,2007,"Animation, Biography, Drama, Family, History, War",85817,2007-05-23,"Vincent Paronnaud, Marjane Satrapi"
+182,tt0106226,2018-10-19,2018-10-19,,The Age of Innocence,https://www.imdb.com/title/tt0106226/,movie,7.2,139,1993,"Drama, Romance",48441,1993-08-31,Martin Scorsese
+183,tt7014006,2018-10-19,2018-10-19,,Eighth Grade,https://www.imdb.com/title/tt7014006/,movie,7.4,93,2018,"Comedy, Drama",56084,2018-01-19,Bo Burnham
+184,tt2375605,2018-10-19,2018-10-19,,The Act of Killing,https://www.imdb.com/title/tt2375605/,movie,8.2,117,2012,"Documentary, Biography, Crime, History",33543,2012-08-31,"Joshua Oppenheimer, Christine Cynn, Anonymous"
+185,tt0335266,2018-10-19,2018-10-19,,Lost in Translation,https://www.imdb.com/title/tt0335266/,movie,7.7,102,2003,"Drama, Romance",395209,2003-08-29,Sofia Coppola
+186,tt0346336,2018-10-19,2018-10-19,,La meglio gioventù,https://www.imdb.com/title/tt0346336/,movie,8.5,366,2003,"Drama, Romance",19877,2003-05-20,Marco Tullio Giordana
+187,tt7282468,2018-10-19,2018-10-19,,Beoning,https://www.imdb.com/title/tt7282468/,movie,7.5,148,2018,"Drama, Mystery",40264,2018-05-16,Chang-dong Lee
+188,tt3263996,2018-10-19,2018-10-19,,The Overnighters,https://www.imdb.com/title/tt3263996/,movie,7.4,102,2014,"Documentary, Drama",2284,2014-01-17,Jesse Moss
+189,tt0405094,2018-10-19,2018-10-19,,Das Leben der Anderen,https://www.imdb.com/title/tt0405094/,movie,8.4,137,2006,"Drama, Mystery, Thriller",343545,2006-03-15,Florian Henckel von Donnersmarck
+190,tt0118540,2018-10-19,2018-10-19,,4 Little Girls,https://www.imdb.com/title/tt0118540/,movie,7.8,102,1997,"Documentary, History",2634,1997-07-09,Spike Lee
+191,tt0385004,2018-10-19,2018-10-19,,Shi mian mai fu,https://www.imdb.com/title/tt0385004/,movie,7.5,119,2004,"Action, Adventure, Drama, Romance",105513,2004-05-19,Yimou Zhang
+192,tt0108065,2018-10-19,2018-10-19,,Searching for Bobby Fischer,https://www.imdb.com/title/tt0108065/,movie,7.4,109,1993,"Biography, Drama",28372,1993-08-11,Steven Zaillian
+193,tt0074156,2018-10-19,2018-10-19,,Assault on Precinct 13,https://www.imdb.com/title/tt0074156/,movie,7.4,91,1976,"Action, Crime, Thriller",41826,1976-10-08,John Carpenter
+194,tt1155592,2018-10-19,2018-10-19,,Man on Wire,https://www.imdb.com/title/tt1155592/,movie,7.7,94,2008,"Documentary, Biography, History",51272,2008-01-22,James Marsh
+195,tt0104454,2018-10-19,2018-10-19,,Howards End,https://www.imdb.com/title/tt0104454/,movie,7.4,142,1992,"Drama, Romance",27475,1992-02-27,James Ivory
+196,tt1087578,2018-10-19,2018-10-19,,Aruitemo aruitemo,https://www.imdb.com/title/tt1087578/,movie,8.0,115,2008,Drama,12509,2008-06-28,Hirokazu Koreeda
+197,tt1954470,2018-10-19,2018-10-19,,Gangs of Wasseypur,https://www.imdb.com/title/tt1954470/,movie,8.2,321,2012,"Action, Crime, Drama, Thriller",75264,2012-05-22,Anurag Kashyap
+198,tt0070290,2018-10-19,2018-10-19,,The Last Detail,https://www.imdb.com/title/tt0070290/,movie,7.5,104,1973,"Comedy, Drama",21189,1973-12-12,Hal Ashby
+199,tt0443453,2018-10-19,2018-10-19,,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,https://www.imdb.com/title/tt0443453/,movie,7.3,84,2006,Comedy,343193,2006-08-04,Larry Charles
+200,tt3716530,2018-10-19,2018-10-19,,Elle,https://www.imdb.com/title/tt3716530/,movie,7.1,130,2016,"Crime, Drama, Thriller",58442,2016-05-21,Paul Verhoeven
+201,tt2576852,2018-10-19,2018-10-19,,Kaguyahime no monogatari,https://www.imdb.com/title/tt2576852/,movie,8.0,137,2013,"Animation, Adventure, Drama, Family, Fantasy",34216,2013-11-23,Isao Takahata
+202,tt2630352,2018-10-19,2018-10-19,,Uncertain,https://www.imdb.com/title/tt2630352/,movie,7.1,82,2015,"Documentary, Comedy, Drama",263,2015-04-16,"Ewan McNicol, Anna Sandilands"
+203,tt3808342,2018-10-19,2018-10-19,,Saul fia,https://www.imdb.com/title/tt3808342/,movie,7.5,107,2015,"Drama, War",42868,2015-05-15,László Nemes
+204,tt2737050,2018-10-19,2018-10-19,,"Deux jours, une nuit",https://www.imdb.com/title/tt2737050/,movie,7.3,95,2014,Drama,43384,2014-05-20,"Luc Dardenne, Jean-Pierre Dardenne"
+205,tt3720794,2018-10-19,2018-10-19,,National Gallery,https://www.imdb.com/title/tt3720794/,movie,7.3,180,2014,Documentary,1265,2014-05-17,Frederick Wiseman
+206,tt1517451,2018-10-19,2018-10-19,,A Star Is Born,https://www.imdb.com/title/tt1517451/,movie,7.7,136,2018,"Drama, Music, Romance",307543,2018-08-31,Bradley Cooper
+207,tt0912593,2018-10-19,2018-10-19,,No End in Sight,https://www.imdb.com/title/tt0912593/,movie,8.2,102,2007,"Documentary, War",8039,2007-01-22,Charles Ferguson
+208,tt0038650,2018-10-19,2018-10-19,,It's a Wonderful Life,https://www.imdb.com/title/tt0038650/,movie,8.6,130,1946,"Drama, Family, Fantasy",382172,1946-12-20,Frank Capra
+209,tt0110428,2018-10-19,2018-10-19,,The Madness of King George,https://www.imdb.com/title/tt0110428/,movie,7.2,110,1994,"Biography, Comedy, Drama, History",14819,1994-12-28,Nicholas Hytner
+210,tt2764784,2018-10-19,2018-10-19,,Phoenix,https://www.imdb.com/title/tt2764784/,movie,7.3,98,2014,"Drama, History, Music, Romance",15888,2014-09-05,Christian Petzold
+211,tt1095442,2018-10-19,2018-10-19,,Goodbye Solo,https://www.imdb.com/title/tt1095442/,movie,7.3,91,2008,Drama,5466,2008-08-31,Ramin Bahrani
+212,tt5157326,2018-10-19,2018-10-19,,Western,https://www.imdb.com/title/tt5157326/,movie,7.0,121,2017,Drama,3206,2017-02-16,Valeska Grisebach
+213,tt0088178,2018-10-19,2018-10-19,,Stop Making Sense,https://www.imdb.com/title/tt0088178/,movie,8.6,88,1984,"Documentary, Music",12079,1984-04-24,Jonathan Demme
+214,tt1020072,2018-10-19,2018-10-19,,Selma,https://www.imdb.com/title/tt1020072/,movie,7.5,128,2014,"Biography, Drama, History",81150,2014-11-11,Ava DuVernay
+215,tt0073582,2018-10-19,2018-10-19,,Profondo rosso,https://www.imdb.com/title/tt0073582/,movie,7.6,127,1975,"Horror, Mystery, Thriller",29948,1975-03-07,Dario Argento
+216,tt1655442,2018-10-19,2018-10-19,,The Artist,https://www.imdb.com/title/tt1655442/,movie,7.9,100,2011,"Comedy, Drama, Romance",224736,2011-05-15,Michel Hazanavicius
+217,tt0081398,2018-10-19,2018-10-19,,Raging Bull,https://www.imdb.com/title/tt0081398/,movie,8.2,129,1980,"Biography, Drama, Sport",308243,1980-11-13,Martin Scorsese
+218,tt3409848,2018-10-19,2018-10-19,,Zama,https://www.imdb.com/title/tt3409848/,movie,6.7,115,2017,Drama,4983,2017-08-31,Lucrecia Martel
+219,tt0338013,2018-10-19,2018-10-19,,Eternal Sunshine of the Spotless Mind,https://www.imdb.com/title/tt0338013/,movie,8.3,108,2004,"Drama, Romance, Sci-Fi",874435,2004-03-09,Michel Gondry
+220,tt0107822,2018-10-19,2018-10-19,,The Piano,https://www.imdb.com/title/tt0107822/,movie,7.6,121,1993,"Drama, Music, Romance",76312,1993-05-15,Jane Campion
+221,tt0099685,2018-10-19,2018-10-19,,Goodfellas,https://www.imdb.com/title/tt0099685/,movie,8.7,146,1990,"Biography, Crime, Drama",973212,1990-09-09,Martin Scorsese
+222,tt0083658,2018-10-19,2018-10-19,,Blade Runner,https://www.imdb.com/title/tt0083658/,movie,8.1,117,1982,"Action, Sci-Fi, Thriller",667115,1982-06-25,Ridley Scott
+223,tt0044706,2018-10-19,2018-10-19,,High Noon,https://www.imdb.com/title/tt0044706/,movie,7.9,85,1952,"Drama, Thriller, Western",94324,1952-05-01,Fred Zinnemann
+224,tt0498380,2018-10-19,2018-10-19,,Letters from Iwo Jima,https://www.imdb.com/title/tt0498380/,movie,7.9,141,2006,"Action, Adventure, Drama, History, War",150618,2006-11-15,Clint Eastwood
+225,tt5990474,2018-10-19,2018-10-19,,Columbus,https://www.imdb.com/title/tt5990474/,movie,7.2,104,2017,Drama,12767,2017-01-22,Kogonada
+226,tt0098327,2018-10-19,2018-10-19,,Der siebente Kontinent,https://www.imdb.com/title/tt0098327/,movie,7.8,104,1989,Drama,12363,1989-05-19,Michael Haneke
+227,tt0907657,2018-10-19,2018-10-19,,Once,https://www.imdb.com/title/tt0907657/,movie,7.8,86,2007,"Drama, Music, Romance",108063,2007-01-20,John Carney
+228,tt4686844,2018-10-19,2018-10-19,,The Death of Stalin,https://www.imdb.com/title/tt4686844/,movie,7.2,107,2017,"Comedy, Drama, History",77836,2017-09-08,Armando Iannucci
+229,tt1623008,2018-10-19,2018-10-19,,The Arbor,https://www.imdb.com/title/tt1623008/,movie,7.3,94,2010,"Documentary, Biography, Drama",1732,2010-04-25,Clio Barnard
+230,tt4143306,2018-10-19,2018-10-19,,Democrats,https://www.imdb.com/title/tt4143306/,movie,7.4,100,2014,Documentary,333,2014-11-13,Camilla Nielsson
+231,tt0162346,2018-10-19,2018-10-19,,Ghost World,https://www.imdb.com/title/tt0162346/,movie,7.3,111,2001,"Comedy, Drama",110419,2001-06-16,Terry Zwigoff
+232,tt0088846,2018-10-19,2018-10-19,,Brazil,https://www.imdb.com/title/tt0088846/,movie,7.9,132,1985,"Drama, Sci-Fi",182036,1985-02-20,Terry Gilliam
+233,tt8185182,2018-10-19,2018-10-19,,Diqiu zuihou de yewan,https://www.imdb.com/title/tt8185182/,movie,7.2,138,2018,"Drama, Mystery",5118,2018-05-15,Bi Gan
+234,tt7689908,2018-10-19,2018-10-19,,Crime + Punishment,https://www.imdb.com/title/tt7689908/,movie,7.4,112,2018,Documentary,510,2018-01-19,Stephen T. Maing
+235,tt6628102,2018-10-19,2018-10-19,,Ahlat Agaci,https://www.imdb.com/title/tt6628102/,movie,8.1,188,2018,Drama,17232,2018-05-18,Nuri Bilge Ceylan
+236,tt0245574,2018-10-19,2018-10-19,,Y tu mamá también,https://www.imdb.com/title/tt0245574/,movie,7.6,106,2001,Drama,111918,2001-06-08,Alfonso Cuarón
+237,tt4468740,2018-10-19,2018-10-19,,Paddington 2,https://www.imdb.com/title/tt4468740/,movie,7.8,103,2017,"Adventure, Comedy, Family, Fantasy",55930,2017-11-05,Paul King
+238,tt0063350,2018-10-19,2018-10-19,,Night of the Living Dead,https://www.imdb.com/title/tt0063350/,movie,7.9,96,1968,Horror,111301,1968-10-01,George A. Romero
+239,tt0097757,2018-10-19,2018-10-19,,The Little Mermaid,https://www.imdb.com/title/tt0097757/,movie,7.6,83,1989,"Animation, Family, Fantasy, Musical, Romance",227962,1989-11-13,"Ron Clements, John Musker"
+240,tt0047296,2018-10-19,2018-10-19,,On the Waterfront,https://www.imdb.com/title/tt0047296/,movie,8.1,108,1954,"Crime, Drama, Thriller",135877,1954-06-22,Elia Kazan
+241,tt0379725,2018-10-19,2018-10-19,,Capote,https://www.imdb.com/title/tt0379725/,movie,7.3,114,2005,"Biography, Crime, Drama, History",121695,2005-09-02,Bennett Miller
+242,tt0044079,2018-10-19,2018-10-19,,Strangers on a Train,https://www.imdb.com/title/tt0044079/,movie,8.0,101,1951,"Crime, Film-Noir, Thriller",119133,1951-06-27,Alfred Hitchcock
+243,tt0436854,2018-10-19,2018-10-19,,Tulpan,https://www.imdb.com/title/tt0436854/,movie,7.0,100,2008,"Comedy, Drama",3038,2008-05-23,Sergei Dvortsevoy
+244,tt2912144,2018-10-19,2018-10-19,,Dast-neveshtehaa nemisoosand,https://www.imdb.com/title/tt2912144/,movie,7.2,125,2013,Drama,790,2013-05-24,Mohammad Rasoulof
+245,tt5190846,2018-10-19,2018-10-19,,In Transit,https://www.imdb.com/title/tt5190846/,movie,5.9,80,2018,Drama,24,2018-10-10,Julia Camara
+246,tt2582802,2018-10-19,2018-10-19,,Whiplash,https://www.imdb.com/title/tt2582802/,movie,8.5,106,2014,"Drama, Music",674437,2014-01-16,Damien Chazelle
+247,tt5027774,2018-10-19,2018-10-19,,"Three Billboards Outside Ebbing, Missouri",https://www.imdb.com/title/tt5027774/,movie,8.2,115,2017,"Comedy, Crime, Drama",397453,2017-09-04,Martin McDonagh
+248,tt1568923,2018-10-19,2018-10-19,,Shtikat Haarchion,https://www.imdb.com/title/tt1568923/,movie,7.4,88,2010,"Documentary, Drama, History",1683,2010-01-25,Yael Hersonski
+249,tt4120176,2018-10-19,2018-10-19,,L'avenir,https://www.imdb.com/title/tt4120176/,movie,7.0,102,2016,Drama,10999,2016-02-13,Mia Hansen-Løve
+250,tt2278388,2018-10-19,2018-10-19,,The Grand Budapest Hotel,https://www.imdb.com/title/tt2278388/,movie,8.1,99,2014,"Adventure, Comedy, Crime",675058,2014-02-06,Wes Anderson
+251,tt2758880,2018-10-19,2018-10-19,,Kis Uykusu,https://www.imdb.com/title/tt2758880/,movie,8.2,196,2014,Drama,42227,2014-05-16,Nuri Bilge Ceylan
+252,tt2278871,2018-10-19,2018-10-19,,La vie d'Adèle,https://www.imdb.com/title/tt2278871/,movie,7.7,180,2013,"Drama, Romance",132620,2013-05-23,Abdellatif Kechiche
+253,tt4044364,2018-10-19,2018-10-19,,Citizenfour,https://www.imdb.com/title/tt4044364/,movie,8.0,114,2014,"Documentary, Biography, News, Thriller",50573,2014-10-10,Laura Poitras
+254,tt0279065,2018-10-19,2018-10-19,,L'emploi du temps,https://www.imdb.com/title/tt0279065/,movie,7.4,134,2001,Drama,4563,2001-09-04,Laurent Cantet
+255,tt0020697,2018-10-19,2018-10-19,,Der blaue Engel,https://www.imdb.com/title/tt0020697/,movie,7.7,104,1930,"Drama, Music",13095,1930-04-01,Josef von Sternberg
+256,tt0103074,2018-10-19,2018-10-19,,Thelma & Louise,https://www.imdb.com/title/tt0103074/,movie,7.5,130,1991,"Adventure, Crime, Drama",129778,1991-05-20,Ridley Scott
+257,tt0491747,2018-10-19,2018-10-19,,Away from Her,https://www.imdb.com/title/tt0491747/,movie,7.5,110,2006,Drama,20981,2006-09-11,Sarah Polley
+258,tt0040338,2018-10-19,2018-10-19,,The Fallen Idol,https://www.imdb.com/title/tt0040338/,movie,7.7,95,1948,"Drama, Mystery, Thriller",7426,1948-08-31,Carol Reed
+259,tt7125860,2018-10-19,2018-10-19,,If Beale Street Could Talk,https://www.imdb.com/title/tt7125860/,movie,7.1,119,2018,"Drama, Romance",36869,2018-09-09,Barry Jenkins
+260,tt0074958,2018-10-19,2018-10-19,,Network,https://www.imdb.com/title/tt0074958/,movie,8.1,121,1976,Drama,139234,1976-11-14,Sidney Lumet
+261,tt1645089,2018-10-19,2018-10-19,,Inside Job,https://www.imdb.com/title/tt1645089/,movie,8.2,109,2010,"Documentary, Crime",67536,2010-02-02,Charles Ferguson
+262,tt3892172,2018-10-19,2018-10-19,,Leave No Trace,https://www.imdb.com/title/tt3892172/,movie,7.2,109,2018,Drama,43697,2018-01-20,Debra Granik
+263,tt0111507,2018-10-19,2018-10-19,,Trois couleurs: Blanc,https://www.imdb.com/title/tt0111507/,movie,7.6,92,1994,"Comedy, Drama, Romance",59992,1994-01-26,Krzysztof Kieslowski
+264,tt4218572,2018-10-19,2018-10-19,,Widows,https://www.imdb.com/title/tt4218572/,movie,6.9,129,2018,"Crime, Drama, Thriller",79875,2018-09-08,Steve McQueen
+265,tt0120630,2018-10-19,2018-10-19,,Chicken Run,https://www.imdb.com/title/tt0120630/,movie,7.0,84,2000,"Animation, Adventure, Comedy, Drama, Family",171594,2000-06-17,"Peter Lord, Nick Park"
+266,tt1504320,2018-10-19,2018-10-19,,The King's Speech,https://www.imdb.com/title/tt1504320/,movie,8.0,118,2010,"Biography, Drama, History",620946,2010-09-06,Tom Hooper
+267,tt2582782,2018-10-19,2018-10-19,,Hell or High Water,https://www.imdb.com/title/tt2582782/,movie,7.6,102,2016,"Action, Crime, Drama, Thriller, Western",193112,2016-05-16,David Mackenzie
+268,tt1049413,2018-10-19,2018-10-19,,Up,https://www.imdb.com/title/tt1049413/,movie,8.2,96,2009,"Animation, Adventure, Comedy, Family",897742,2009-05-13,"Pete Docter, Bob Peterson"
+269,tt0110932,2018-10-19,2018-10-19,,Quiz Show,https://www.imdb.com/title/tt0110932/,movie,7.5,133,1994,"Biography, Drama, History",62836,1994-09-23,Robert Redford
+270,tt1337139,2018-10-19,2018-10-19,,45365,https://www.imdb.com/title/tt1337139/,movie,7.3,90,2009,Documentary,182,2009-03-31,"Turner Ross, Bill Ross IV"
+271,tt5221584,2018-10-19,2018-10-19,,Aquarius,https://www.imdb.com/title/tt5221584/,movie,7.5,146,2016,Drama,17021,2016-05-17,Kleber Mendonça Filho
+272,tt2401878,2018-10-19,2018-10-19,,Anomalisa,https://www.imdb.com/title/tt2401878/,movie,7.3,90,2015,"Animation, Comedy, Drama, Romance",62275,2015-09-04,"Duke Johnson, Charlie Kaufman"
+273,tt4958448,2018-10-19,2018-10-19,,Museo,https://www.imdb.com/title/tt4958448/,movie,6.9,128,2018,"Crime, Drama",4241,2018-02-22,Alonso Ruizpalacios
+274,tt0120363,2018-10-19,2018-10-19,,Toy Story 2,https://www.imdb.com/title/tt0120363/,movie,7.9,92,1999,"Animation, Adventure, Comedy, Family, Fantasy",507347,1999-11-13,"John Lasseter, Ash Brannon, Lee Unkrich"
+275,tt1825683,2018-10-19,2018-10-19,,Black Panther,https://www.imdb.com/title/tt1825683/,movie,7.3,134,2018,"Action, Adventure, Sci-Fi",580218,2018-01-29,Ryan Coogler
+276,tt2562232,2018-10-19,2018-10-19,,Birdman or (The Unexpected Virtue of Ignorance),https://www.imdb.com/title/tt2562232/,movie,7.7,119,2014,"Comedy, Drama",556489,2014-08-27,Alejandro G. Iñárritu
+277,tt0408664,2018-10-19,2018-10-19,,Dare mo shiranai,https://www.imdb.com/title/tt0408664/,movie,8.1,141,2004,Drama,23388,2004-05-13,Hirokazu Koreeda
+278,tt0100024,2018-10-19,2018-10-19,,Life Is Sweet,https://www.imdb.com/title/tt0100024/,movie,7.5,103,1990,"Comedy, Drama",8580,1990-11-15,Mike Leigh
+279,tt0058331,2018-10-19,2018-10-19,,Mary Poppins,https://www.imdb.com/title/tt0058331/,movie,7.8,139,1964,"Comedy, Family, Fantasy, Musical",151983,1964-08-27,Robert Stevenson
+280,tt0167261,2018-10-19,2018-10-19,,The Lord of the Rings: The Two Towers,https://www.imdb.com/title/tt0167261/,movie,8.7,179,2002,"Adventure, Drama, Fantasy",1429353,2002-12-05,Peter Jackson
+281,tt0456396,2018-10-19,2018-10-19,,L'enfant,https://www.imdb.com/title/tt0456396/,movie,7.5,95,2005,"Crime, Drama, Romance",17238,2005-05-17,"Luc Dardenne, Jean-Pierre Dardenne"
+282,tt6958212,2018-10-19,2018-10-19,,Sweet Country,https://www.imdb.com/title/tt6958212/,movie,6.9,113,2017,"Adventure, Crime, Drama, History, Thriller, Western",6636,2017-09-06,Warwick Thornton
+283,tt7689958,2018-10-19,2018-10-19,,Jane Fonda in Five Acts,https://www.imdb.com/title/tt7689958/,movie,7.9,133,2018,Documentary,1669,2018-01-20,Susan Lacy
+284,tt0081283,2018-10-19,2018-10-19,,Ordinary People,https://www.imdb.com/title/tt0081283/,movie,7.7,124,1980,Drama,44772,1980-09-19,Robert Redford
+285,tt5278578,2018-10-19,2018-10-19,,Newtown,https://www.imdb.com/title/tt5278578/,movie,6.8,85,2016,"Documentary, History",1611,2016-01-24,Kim A. Snyder
+286,tt5119264,2018-10-19,2018-10-19,,Restless Creature: Wendy Whelan,https://www.imdb.com/title/tt5119264/,movie,7.1,90,2016,Documentary,287,2016-10-09,"Linda Saffire, Adam Schlesinger"
+287,tt0110367,2018-10-19,2018-10-19,,Little Women,https://www.imdb.com/title/tt0110367/,movie,7.3,115,1994,"Drama, Family, Romance",49023,1994-12-21,Gillian Armstrong
+288,tt1287878,2018-10-19,2018-10-19,,Shi,https://www.imdb.com/title/tt1287878/,movie,7.8,139,2010,Drama,9779,2010-05-13,Chang-dong Lee
+289,tt0138097,2018-10-19,2018-10-19,,Shakespeare in Love,https://www.imdb.com/title/tt0138097/,movie,7.1,123,1998,"Comedy, Drama, History, Romance",208914,1998-12-03,John Madden
+290,tt0025316,2018-10-19,2018-10-19,,It Happened One Night,https://www.imdb.com/title/tt0025316/,movie,8.1,105,1934,"Comedy, Romance",89575,1934-02-22,Frank Capra
+291,tt2852470,2018-10-19,2018-10-19,,L'image manquante,https://www.imdb.com/title/tt2852470/,movie,7.4,92,2013,Documentary,2977,2013-05-19,Rithy Panh
+292,tt1500761,2018-10-19,2018-10-19,,"Viajo Porque Preciso, Volto Porque te Amo",https://www.imdb.com/title/tt1500761/,movie,7.3,75,2009,Drama,679,2009-09-04,"Marcelo Gomes, Karim Aïnouz"
+293,tt0081573,2018-10-19,2018-10-19,,Superman II,https://www.imdb.com/title/tt0081573/,movie,6.8,127,1980,"Action, Adventure, Sci-Fi",95062,1980-12-04,"Richard Donner, Richard Lester"
+294,tt3704008,2018-10-19,2018-10-19,,Of Men and War,https://www.imdb.com/title/tt3704008/,movie,6.9,142,2014,"Documentary, History, War",140,2014-05-21,Laurent Bécue-Renard
+295,tt6223974,2018-10-19,2018-10-19,,The Farthest,https://www.imdb.com/title/tt6223974/,movie,8.1,121,2017,"Documentary, History",3565,2017-02-26,Emer Reynolds
+296,tt0929425,2018-10-19,2018-10-19,,Gomorra,https://www.imdb.com/title/tt0929425/,movie,7.0,137,2008,"Crime, Drama",45167,2008-05-16,Matteo Garrone
+297,tt0318202,2018-10-20,2018-10-20,,Être et avoir,https://www.imdb.com/title/tt0318202/,movie,7.8,104,2002,"Documentary, Family",7420,2002-05-19,Nicolas Philibert
+298,tt2381111,2018-10-20,2018-10-20,,Brooklyn,https://www.imdb.com/title/tt2381111/,movie,7.5,117,2015,"Drama, Romance",125334,2015-01-26,John Crowley
+299,tt0074486,2018-10-20,2018-10-20,,Eraserhead,https://www.imdb.com/title/tt0074486/,movie,7.4,89,1977,Horror,96909,1977-03-19,David Lynch
+300,tt3652526,2018-10-20,2018-10-20,,Fuocoammare,https://www.imdb.com/title/tt3652526/,movie,6.7,114,2016,Documentary,5203,2016-02-13,Gianfranco Rosi
+301,tt0056592,2018-10-20,2018-10-20,,To Kill a Mockingbird,https://www.imdb.com/title/tt0056592/,movie,8.2,129,1962,"Crime, Drama",285007,1962-12-20,Robert Mulligan
+302,tt0106977,2018-10-20,2018-10-20,,The Fugitive,https://www.imdb.com/title/tt0106977/,movie,7.8,130,1993,"Action, Crime, Drama, Mystery, Thriller",257635,1993-07-29,Andrew Davis
+303,tt1360860,2018-10-20,2018-10-20,,Darbareye Elly,https://www.imdb.com/title/tt1360860/,movie,8.0,119,2009,"Drama, Mystery, Thriller",42187,2009-02-01,Asghar Farhadi
+304,tt0050212,2018-10-20,2018-10-20,,The Bridge on the River Kwai,https://www.imdb.com/title/tt0050212/,movie,8.1,161,1957,"Adventure, Drama, War",195564,1957-10-02,David Lean
+305,tt0058150,2018-10-20,2018-10-20,,Goldfinger,https://www.imdb.com/title/tt0058150/,movie,7.7,110,1964,"Action, Adventure, Thriller",166618,1964-09-17,Guy Hamilton
+306,tt0102592,2018-10-20,2018-10-20,,One False Move,https://www.imdb.com/title/tt0102592/,movie,7.1,105,1992,"Crime, Drama",9371,1992-01-31,Carl Franklin
+307,tt6144092,2018-10-20,2018-10-20,,En el séptimo día,https://www.imdb.com/title/tt6144092/,movie,6.9,92,2017,Drama,210,2017-06-25,Jim McKay
+308,tt7207238,2018-10-20,2018-10-20,,Jane,https://www.imdb.com/title/tt7207238/,movie,7.8,90,2017,"Documentary, Biography",3971,2017-09-10,Brett Morgen
+309,tt4595882,2018-10-20,2018-10-20,,Can You Ever Forgive Me?,https://www.imdb.com/title/tt4595882/,movie,7.1,106,2018,"Biography, Comedy, Crime, Drama",42547,2018-09-01,Marielle Heller
+310,tt2364975,2018-10-20,2018-10-20,,Vi är bäst!,https://www.imdb.com/title/tt2364975/,movie,7.2,102,2013,"Drama, Music",9709,2013-08-31,Lukas Moodysson
+311,tt0054331,2018-10-20,2018-10-20,,Spartacus,https://www.imdb.com/title/tt0054331/,movie,7.9,197,1960,"Adventure, Biography, Drama, History, War",119781,1960-10-06,Stanley Kubrick
+312,tt0088763,2018-10-20,2018-10-20,,Back to the Future,https://www.imdb.com/title/tt0088763/,movie,8.5,116,1985,"Adventure, Comedy, Sci-Fi",999499,1985-07-03,Robert Zemeckis
+313,tt5652594,2018-10-20,2018-10-20,,Voyage à travers le cinéma français,https://www.imdb.com/title/tt5652594/,movie,7.8,201,2016,Documentary,608,2016-05-16,Bertrand Tavernier
+314,tt0312004,2018-10-20,2018-10-20,,The Curse of the Were-Rabbit,https://www.imdb.com/title/tt0312004/,movie,7.4,85,2005,"Animation, Adventure, Comedy, Family, Fantasy, Horror, Mystery, Sci-Fi",121467,2005-09-04,"Nick Park, Steve Box"
+315,tt3172532,2018-10-20,2018-10-20,,The Diary of a Teenage Girl,https://www.imdb.com/title/tt3172532/,movie,6.9,102,2015,"Comedy, Drama, Romance",28472,2015-01-24,Marielle Heller
+316,tt1925421,2018-10-20,2018-10-20,,Elena,https://www.imdb.com/title/tt1925421/,movie,7.3,109,2011,"Crime, Drama, Thriller",12381,2011-05-21,Andrey Zvyagintsev
+317,tt2017038,2018-10-20,2018-10-20,,All Is Lost,https://www.imdb.com/title/tt2017038/,movie,6.9,106,2013,"Action, Adventure, Drama",73950,2013-05-22,J.C. Chandor
+318,tt7784604,2018-10-20,2018-10-20,,Hereditary,https://www.imdb.com/title/tt7784604/,movie,7.3,127,2018,"Drama, Horror, Mystery, Thriller",207113,2018-01-21,Ari Aster
+319,tt4145178,2018-10-20,2018-10-20,,Listen to Me Marlon,https://www.imdb.com/title/tt4145178/,movie,8.2,103,2015,"Documentary, Biography",6743,2015-01-24,Stevan Riley
+320,tt2179053,2018-10-20,2018-10-20,,Gideon's Army,https://www.imdb.com/title/tt2179053/,movie,7.7,96,2013,Documentary,760,2013-01-21,Dawn Porter
+321,tt0070666,2018-10-20,2018-10-20,,Serpico,https://www.imdb.com/title/tt0070666/,movie,7.7,130,1973,"Biography, Crime, Drama, Thriller",104011,1973-12-05,Sidney Lumet
+322,tt0390221,2018-10-20,2018-10-20,,Maria Full of Grace,https://www.imdb.com/title/tt0390221/,movie,7.4,101,2004,"Crime, Drama",33444,2004-01-18,Joshua Marston
+323,tt0367082,2018-10-20,2018-10-20,,Sorstalanság,https://www.imdb.com/title/tt0367082/,movie,6.9,140,2005,"Drama, Romance, War",6409,2005-02-08,Lajos Koltai
+324,tt0317910,2018-10-20,2018-10-20,,The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,https://www.imdb.com/title/tt0317910/,movie,8.1,107,2003,"Documentary, Biography, History, War",22277,2003-05-21,Errol Morris
+325,tt0084805,2018-10-20,2018-10-20,,Tootsie,https://www.imdb.com/title/tt0084805/,movie,7.4,116,1982,"Comedy, Drama, Romance",94162,1982-12-01,Sydney Pollack
+326,tt1588895,2018-10-20,2018-10-20,,Loong Boonmee raleuk chat,https://www.imdb.com/title/tt1588895/,movie,6.7,114,2010,"Drama, Fantasy",12977,2010-05-21,Apichatpong Weerasethakul
+327,tt0056869,2018-10-20,2018-10-20,,The Birds,https://www.imdb.com/title/tt0056869/,movie,7.7,119,1963,"Drama, Horror, Mystery, Romance",164100,1963-03-28,Alfred Hitchcock
+328,tt0388795,2018-10-20,2018-10-20,,Brokeback Mountain,https://www.imdb.com/title/tt0388795/,movie,7.7,134,2005,"Drama, Romance",312912,2005-09-02,Ang Lee
+329,tt2818654,2018-10-20,2018-10-20,,Rak ti Khon Kaen,https://www.imdb.com/title/tt2818654/,movie,6.8,122,2015,"Drama, Fantasy",3963,2015-05-18,Apichatpong Weerasethakul
+330,tt1827512,2018-10-20,2018-10-20,,Le gamin au vélo,https://www.imdb.com/title/tt1827512/,movie,7.4,87,2011,Drama,25559,2011-05-15,"Luc Dardenne, Jean-Pierre Dardenne"
+331,tt1201607,2018-10-20,2018-10-20,,Harry Potter and the Deathly Hallows: Part 2,https://www.imdb.com/title/tt1201607/,movie,8.1,130,2011,"Adventure, Drama, Fantasy, Mystery",731138,2011-07-07,David Yates
+332,tt0070917,2018-10-20,2018-10-20,,The Wicker Man,https://www.imdb.com/title/tt0070917/,movie,7.5,88,1973,"Horror, Mystery, Thriller",65336,1973-12-06,Robin Hardy
+333,tt0048545,2018-10-20,2018-10-20,,Rebel Without a Cause,https://www.imdb.com/title/tt0048545/,movie,7.7,111,1955,Drama,80218,1955-10-26,Nicholas Ray
+334,tt1385956,2018-10-20,2018-10-20,,Particle Fever,https://www.imdb.com/title/tt1385956/,movie,7.4,99,2013,Documentary,7068,2013-06-14,Mark Levinson
+335,tt0390538,2018-10-20,2018-10-20,,Tarnation,https://www.imdb.com/title/tt0390538/,movie,7.1,88,2003,"Documentary, Biography",6227,2003-10-19,Jonathan Caouette
+336,tt0436613,2018-10-20,2018-10-20,,Murderball,https://www.imdb.com/title/tt0436613/,movie,7.7,88,2005,"Documentary, Sport",9725,2005-01-23,"Henry Alex Rubin, Dana Adam Shapiro"
+337,tt2382298,2018-10-20,2018-10-20,,Life Itself,https://www.imdb.com/title/tt2382298/,movie,7.8,121,2014,"Documentary, Biography",14521,2014-01-19,Steve James
+338,tt5580390,2018-10-20,2018-10-20,,The Shape of Water,https://www.imdb.com/title/tt5580390/,movie,7.3,123,2017,"Adventure, Drama, Fantasy, Romance, Thriller",348956,2017-08-31,Guillermo del Toro
+339,tt0117631,2018-10-20,2018-10-20,,Shine,https://www.imdb.com/title/tt0117631/,movie,7.7,105,1996,"Biography, Drama, Music, Romance",50035,1996-01-21,Scott Hicks
+340,tt0427312,2018-10-20,2018-10-20,,Grizzly Man,https://www.imdb.com/title/tt0427312/,movie,7.8,103,2005,"Documentary, Biography",50798,2005-01-24,Werner Herzog
+341,tt2281267,2018-10-20,2018-10-20,,Gregory Crewdson: Brief Encounters,https://www.imdb.com/title/tt2281267/,movie,7.4,78,2012,"Documentary, Biography, Drama",550,2012-10-31,Ben Shapiro
+342,tt1210166,2018-10-20,2018-10-20,,Moneyball,https://www.imdb.com/title/tt1210166/,movie,7.6,133,2011,"Biography, Drama, Sport",346642,2011-09-09,Bennett Miller
+343,tt1646958,2018-10-20,2018-10-20,,Autobiografia lui Nicolae Ceausescu,https://www.imdb.com/title/tt1646958/,movie,7.7,180,2010,"Documentary, Biography, History",1333,2010-05-18,Andrei Ujica
+344,tt0185125,2018-10-20,2018-10-20,,Todo sobre mi madre,https://www.imdb.com/title/tt0185125/,movie,7.8,101,1999,Drama,85579,1999-04-08,Pedro Almodóvar
+345,tt0116209,2018-10-20,2018-10-20,,The English Patient,https://www.imdb.com/title/tt0116209/,movie,7.4,162,1996,"Drama, Romance, War",173252,1996-10-31,Anthony Minghella
+346,tt0057115,2018-10-20,2018-10-20,,The Great Escape,https://www.imdb.com/title/tt0057115/,movie,8.2,172,1963,"Adventure, Drama, History, Thriller, War",215897,1963-06-20,John Sturges
+347,tt2570858,2018-10-20,2018-10-20,,The Duke of Burgundy,https://www.imdb.com/title/tt2570858/,movie,6.5,104,2014,"Drama, Mystery, Romance, Thriller",11335,2014-09-06,Peter Strickland
+348,tt4048050,2018-10-20,2018-10-20,,Trois souvenirs de ma jeunesse,https://www.imdb.com/title/tt4048050/,movie,6.8,123,2015,"Drama, Romance",3031,2015-05-15,Arnaud Desplechin
+349,tt7520286,2018-10-20,2018-10-20,,Bisbee '17,https://www.imdb.com/title/tt7520286/,movie,6.6,112,2018,"Documentary, Western",503,2018-01-20,Robert Greene
+350,tt3068194,2018-10-20,2018-10-20,,Love & Friendship,https://www.imdb.com/title/tt3068194/,movie,6.4,90,2016,"Comedy, Drama, Romance",22252,2016-01-23,Whit Stillman
+351,tt2121382,2018-10-20,2018-10-20,,Turist,https://www.imdb.com/title/tt2121382/,movie,7.3,120,2014,"Comedy, Drama",46161,2014-05-18,Ruben Östlund
+352,tt0073195,2018-10-20,2018-10-20,,Jaws,https://www.imdb.com/title/tt0073195/,movie,8.0,124,1975,"Adventure, Thriller",528104,1975-06-20,Steven Spielberg
+353,tt0317226,2018-10-20,2018-10-20,,Gomgashtei dar Aragh,https://www.imdb.com/title/tt0317226/,movie,7.4,100,2002,"Drama, War",1334,2002-05-22,Bahman Ghobadi
+354,tt0318034,2018-10-20,2018-10-20,,Russkiy kovcheg,https://www.imdb.com/title/tt0318034/,movie,7.4,99,2002,"Drama, Fantasy, History, Mystery",18285,2002-05-22,Aleksandr Sokurov
+355,tt0443272,2018-10-20,2018-10-20,,Lincoln,https://www.imdb.com/title/tt0443272/,movie,7.3,150,2012,"Biography, Drama, History, War",237586,2012-10-08,Steven Spielberg
+356,tt3170832,2018-10-20,2018-10-20,,Room,https://www.imdb.com/title/tt3170832/,movie,8.1,118,2015,"Drama, Thriller",347438,2015-09-04,Lenny Abrahamson
+357,tt1568334,2018-10-20,2018-10-20,,The Tillman Story,https://www.imdb.com/title/tt1568334/,movie,7.7,94,2010,"Documentary, Biography, Mystery, War",4468,2010-01-23,Amir Bar-Lev
+358,tt0209463,2018-10-20,2018-10-20,,Bad ma ra khahad bord,https://www.imdb.com/title/tt0209463/,movie,7.6,118,1999,Drama,8089,1999-09-06,Abbas Kiarostami
+359,tt0098724,2018-10-20,2018-10-20,,"Sex, Lies, and Videotape",https://www.imdb.com/title/tt0098724/,movie,7.2,100,1989,Drama,47661,1989-01-20,Steven Soderbergh
+360,tt0072890,2018-10-20,2018-10-20,,Dog Day Afternoon,https://www.imdb.com/title/tt0072890/,movie,8.0,125,1975,"Biography, Crime, Drama, Thriller",227571,1975-09-19,Sidney Lumet
+361,tt0035446,2018-10-20,2018-10-20,,To Be or Not to Be,https://www.imdb.com/title/tt0035446/,movie,8.2,99,1942,"Comedy, War",25263,1942-02-19,Ernst Lubitsch
+362,tt0103994,2018-10-20,2018-10-20,,Como agua para chocolate,https://www.imdb.com/title/tt0103994/,movie,7.1,105,1992,"Drama, Romance",16384,1992-04-16,Alfonso Arau
+363,tt1821549,2018-10-20,2018-10-20,,Nebraska,https://www.imdb.com/title/tt1821549/,movie,7.7,115,2013,"Adventure, Comedy, Drama",109305,2013-05-23,Alexander Payne
+364,tt1010048,2018-10-20,2018-10-20,,Slumdog Millionaire,https://www.imdb.com/title/tt1010048/,movie,8.0,120,2008,"Drama, Romance",778232,2008-08-30,"Loveleen Tandan, Danny Boyle"
+365,tt2405372,2018-10-20,2018-10-20,,Stand Clear of the Closing Doors,https://www.imdb.com/title/tt2405372/,movie,6.3,102,2013,Drama,446,2013-07-03,Sam Fleischner
+366,tt3215846,2018-10-20,2018-10-20,,Dreamcatcher,https://www.imdb.com/title/tt3215846/,movie,7.0,104,2015,"Documentary, Crime, Drama, Family",404,2015-01-25,Kim Longinotto
+367,tt0114681,2018-10-20,2018-10-20,,To Die For,https://www.imdb.com/title/tt0114681/,movie,6.8,106,1995,"Comedy, Crime, Drama, Thriller",42144,1995-05-20,Gus Van Sant
+368,tt0405159,2018-10-20,2018-10-20,,Million Dollar Baby,https://www.imdb.com/title/tt0405159/,movie,8.1,132,2004,"Drama, Sport",614147,2004-12-05,Clint Eastwood
+369,tt0164312,2018-10-20,2018-10-20,,42 Up,https://www.imdb.com/title/tt0164312/,tvMovie,8.2,139,1998,"Documentary, Biography",2311,1998-07-21,Michael Apted
+370,tt0166896,2018-10-20,2018-10-20,,The Straight Story,https://www.imdb.com/title/tt0166896/,movie,8.0,112,1999,"Biography, Drama",78508,1999-05-21,David Lynch
+371,tt4266638,2018-10-20,2018-10-20,,Krisha,https://www.imdb.com/title/tt4266638/,movie,7.2,83,2015,Drama,7016,2015-03-16,Trey Edward Shults
+372,tt5375040,2018-10-20,2018-10-20,,Cameraperson,https://www.imdb.com/title/tt5375040/,movie,7.4,102,2016,Documentary,2194,2016-01-26,Kirsten Johnson
+373,tt2321549,2018-10-20,2018-10-20,,The Babadook,https://www.imdb.com/title/tt2321549/,movie,6.8,94,2014,"Drama, Horror",186714,2014-01-17,Jennifer Kent
+374,tt3279124,2018-10-20,2018-10-20,,Last Days in Vietnam,https://www.imdb.com/title/tt3279124/,movie,7.6,98,2014,"Documentary, History, War",3607,2014-01-17,Rory Kennedy
+375,tt4919484,2018-10-20,2018-10-20,,Little Men,https://www.imdb.com/title/tt4919484/,movie,6.7,85,2016,Drama,6590,2016-01-25,Ira Sachs
+376,tt0842926,2018-10-20,2018-10-20,,The Kids Are All Right,https://www.imdb.com/title/tt0842926/,movie,7.0,106,2010,"Comedy, Drama, Romance",123322,2010-01-25,Lisa Cholodenko
+377,tt0171804,2018-10-20,2018-10-20,,Boys Don't Cry,https://www.imdb.com/title/tt0171804/,movie,7.5,118,1999,"Biography, Crime, Drama, Romance",90007,1999-09-02,Kimberly Peirce
+378,tt0094964,2018-10-20,2018-10-20,,Dead Ringers,https://www.imdb.com/title/tt0094964/,movie,7.3,116,1988,"Drama, Horror, Thriller",38932,1988-09-08,David Cronenberg
+379,tt3103326,2018-10-20,2018-10-20,,Manakamana,https://www.imdb.com/title/tt3103326/,movie,6.6,118,2013,Documentary,667,2013-08-12,"Pacho Velez, Stephanie Spray"
+380,tt0128445,2018-10-20,2018-10-20,,Rushmore,https://www.imdb.com/title/tt0128445/,movie,7.7,93,1998,"Comedy, Drama",163612,1998-09-17,Wes Anderson
+381,tt1664894,2018-10-20,2018-10-20,,Cave of Forgotten Dreams,https://www.imdb.com/title/tt1664894/,movie,7.4,90,2010,"Documentary, History",14658,2010-09-13,Werner Herzog
+382,tt0096283,2018-10-20,2018-10-20,,Tonari no Totoro,https://www.imdb.com/title/tt0096283/,movie,8.2,86,1988,"Animation, Family, Fantasy",268416,1988-04-16,Hayao Miyazaki
+383,tt0107322,2018-10-20,2018-10-20,,King of the Hill,https://www.imdb.com/title/tt0107322/,movie,7.4,103,1993,"Drama, History",7238,1993-05-19,Steven Soderbergh
+384,tt3666024,2018-10-20,2018-10-20,,La tortue rouge,https://www.imdb.com/title/tt3666024/,movie,7.5,80,2016,"Animation, Family, Fantasy",28747,2016-05-18,Michael Dudok de Wit
+385,tt5791536,2018-10-20,2018-10-20,,Chemi Bednieri Ojakhi,https://www.imdb.com/title/tt5791536/,movie,7.4,120,2017,Drama,2495,2017-01-22,"Nana Ekvtimishvili, Simon Groß"
+386,tt6333054,2018-10-20,2018-10-20,,Chasing Coral,https://www.imdb.com/title/tt6333054/,movie,8.1,93,2017,Documentary,3753,2017-01-21,Jeff Orlowski
+387,tt2124803,2018-10-20,2018-10-20,,How to Survive a Plague,https://www.imdb.com/title/tt2124803/,movie,7.6,110,2012,"Documentary, History, News",3644,2012-01-22,David France
+388,tt0064276,2018-10-20,2018-10-20,,Easy Rider,https://www.imdb.com/title/tt0064276/,movie,7.3,95,1969,"Adventure, Drama",95847,1969-05-12,Dennis Hopper
+389,tt6304162,2018-10-20,2018-10-20,,Nelyubov,https://www.imdb.com/title/tt6304162/,movie,7.6,127,2017,Drama,27131,2017-05-18,Andrey Zvyagintsev
+390,tt0301978,2018-10-20,2018-10-20,,Dah,https://www.imdb.com/title/tt0301978/,movie,7.5,89,2002,Drama,6554,2002-05-20,Abbas Kiarostami
+391,tt0283422,2018-10-20,2018-10-20,,Je rentre à la maison,https://www.imdb.com/title/tt0283422/,movie,6.9,90,2001,"Comedy, Drama",1647,2001-05-13,Manoel de Oliveira
+392,tt0247425,2018-10-20,2018-10-20,,In the Bedroom,https://www.imdb.com/title/tt0247425/,movie,7.4,131,2001,"Crime, Drama",36458,2001-01-19,Todd Field
+393,tt5639354,2018-10-20,2018-10-20,,Una Mujer Fantástica,https://www.imdb.com/title/tt5639354/,movie,7.2,104,2017,Drama,20857,2017-02-12,Sebastián Lelio
+394,tt2178941,2018-10-20,2018-10-20,,Barbara,https://www.imdb.com/title/tt2178941/,movie,7.1,105,2012,Drama,12174,2012-02-11,Christian Petzold
+395,tt1588337,2018-10-20,2018-10-20,,Des hommes et des dieux,https://www.imdb.com/title/tt1588337/,movie,7.2,122,2010,"Drama, History",14427,2010-05-18,Xavier Beauvois
+396,tt6386748,2018-10-20,2018-10-20,,Pájaros de verano,https://www.imdb.com/title/tt6386748/,movie,7.5,125,2018,"Crime, Drama",8726,2018-05-09,"Cristina Gallego, Ciro Guerra"
+397,tt0110684,2018-10-20,2018-10-20,,Nobody's Fool,https://www.imdb.com/title/tt0110684/,movie,7.4,110,1994,"Comedy, Drama",17794,1994-12-23,Robert Benton
+398,tt0088184,2018-10-20,2018-10-20,,Stranger than Paradise,https://www.imdb.com/title/tt0088184/,movie,7.5,89,1984,"Comedy, Drama",33100,1984-05-16,Jim Jarmusch
+399,tt1129435,2018-10-20,2018-10-20,,Les plages d'Agnès,https://www.imdb.com/title/tt1129435/,movie,8.0,110,2008,"Documentary, Biography",3072,2008-09-03,Agnès Varda
+400,tt0082096,2018-10-20,2018-10-20,,Das Boot,https://www.imdb.com/title/tt0082096/,movie,8.3,149,1981,"Adventure, Drama, Thriller, War",222442,1981-09-17,Wolfgang Petersen
+401,tt0055614,2018-10-20,2018-10-20,,West Side Story,https://www.imdb.com/title/tt0055614/,movie,7.5,153,1961,"Crime, Drama, Musical, Romance",92752,1961-10-18,"Jerome Robbins, Robert Wise"
+402,tt0814075,2018-10-20,2018-10-20,,Deliver Us from Evil,https://www.imdb.com/title/tt0814075/,movie,7.9,101,2006,"Documentary, Crime",9657,2006-06-24,Amy Berg
+403,tt4912910,2018-10-20,2018-10-20,,Mission: Impossible - Fallout,https://www.imdb.com/title/tt4912910/,movie,7.7,147,2018,"Action, Adventure, Thriller",271191,2018-07-12,Christopher McQuarrie
+404,tt3675486,2018-10-20,2018-10-20,,Maidan,https://www.imdb.com/title/tt3675486/,movie,6.5,134,2014,Documentary,880,2014-05-21,Sergey Loznitsa
+405,tt2165735,2018-10-20,2018-10-20,,Du zhan,https://www.imdb.com/title/tt2165735/,movie,7.0,107,2012,"Action, Crime, Drama, Thriller",8986,2012-11-15,Johnnie To
+406,tt2358891,2018-10-20,2018-10-20,,La grande bellezza,https://www.imdb.com/title/tt2358891/,movie,7.8,141,2013,Drama,77200,2013-05-21,Paolo Sorrentino
+407,tt5462602,2018-10-20,2018-10-20,,The Big Sick,https://www.imdb.com/title/tt5462602/,movie,7.5,120,2017,"Comedy, Drama, Romance",114281,2017-01-20,Michael Showalter
+408,tt1024648,2018-10-20,2018-10-20,,Argo,https://www.imdb.com/title/tt1024648/,movie,7.7,120,2012,"Biography, Drama, Thriller",557115,2012-08-31,Ben Affleck
+409,tt0765849,2018-10-20,2018-10-20,,Unser täglich Brot,https://www.imdb.com/title/tt0765849/,movie,7.6,92,2005,Documentary,2449,2005-11-28,Nikolaus Geyrhalter
+410,tt0058450,2018-10-20,2018-10-20,,Les parapluies de Cherbourg,https://www.imdb.com/title/tt0058450/,movie,7.8,91,1964,"Drama, Musical, Romance",22087,1964-02-03,Jacques Demy
+411,tt0287467,2018-10-20,2018-10-20,,Hable con ella,https://www.imdb.com/title/tt0287467/,movie,7.9,112,2002,"Drama, Mystery, Romance",101442,2002-03-15,Pedro Almodóvar
+412,tt0240913,2018-10-20,2018-10-20,,Sous le sable,https://www.imdb.com/title/tt0240913/,movie,7.1,92,2000,"Drama, Mystery",8037,2000-09-11,François Ozon
+413,tt0181865,2018-10-20,2018-10-20,,Traffic,https://www.imdb.com/title/tt0181865/,movie,7.6,147,2000,"Crime, Drama, Thriller",191250,2000-12-06,Steven Soderbergh
+414,tt0099703,2018-10-20,2018-10-20,,The Grifters,https://www.imdb.com/title/tt0099703/,movie,6.9,110,1990,"Crime, Drama, Thriller",24522,1990-09-14,Stephen Frears
+415,tt1560747,2018-10-20,2018-10-20,,The Master,https://www.imdb.com/title/tt1560747/,movie,7.2,138,2012,Drama,145973,2012-09-01,Paul Thomas Anderson
+416,tt0456149,2018-10-20,2018-10-20,,Moartea domnului Lãzãrescu,https://www.imdb.com/title/tt0456149/,movie,7.9,153,2005,"Comedy, Drama",12993,2005-05-17,Cristi Puiu
+417,tt0087544,2018-10-20,2018-10-20,,Kaze no tani no Naushika,https://www.imdb.com/title/tt0087544/,movie,8.1,117,1984,"Animation, Adventure, Fantasy, Sci-Fi",140230,1984-03-11,Hayao Miyazaki
+418,tt0103639,2018-10-20,2018-10-20,,Aladdin,https://www.imdb.com/title/tt0103639/,movie,8.0,90,1992,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",356301,1992-11-08,"Ron Clements, John Musker"
+419,tt0379357,2018-10-20,2018-10-20,,Los Angeles Plays Itself,https://www.imdb.com/title/tt0379357/,movie,8.0,169,2003,"Documentary, History",2078,2003-09-07,Thom Andersen
+420,tt0480025,2018-10-20,2018-10-20,,This Is England,https://www.imdb.com/title/tt0480025/,movie,7.7,101,2006,"Crime, Drama",113199,2006-09-12,Shane Meadows
+421,tt6333056,2018-10-20,2018-10-20,,City of Ghosts,https://www.imdb.com/title/tt6333056/,movie,7.4,92,2017,"Documentary, War",3268,2017-01-21,Matthew Heineman
+422,tt0332831,2018-10-20,2018-10-20,,Xiao cheng zhi chun,https://www.imdb.com/title/tt0332831/,movie,6.9,116,2002,"Drama, Romance",1237,2002-09-04,Zhuangzhuang Tian
+423,tt0313670,2018-10-20,2018-10-20,,Sweet Sixteen,https://www.imdb.com/title/tt0313670/,movie,7.4,106,2002,"Crime, Drama",12609,2002-05-21,Ken Loach
+424,tt0291172,2018-10-20,2018-10-20,,Le fils,https://www.imdb.com/title/tt0291172/,movie,7.6,99,2002,"Drama, Mystery",8706,2002-05-23,"Luc Dardenne, Jean-Pierre Dardenne"
+425,tt0105151,2018-10-20,2018-10-20,,The Player,https://www.imdb.com/title/tt0105151/,movie,7.5,124,1992,"Comedy, Crime, Drama, Thriller",52121,1992-04-03,Robert Altman
+426,tt0876563,2018-10-20,2018-10-20,,Gake no ue no Ponyo,https://www.imdb.com/title/tt0876563/,movie,7.7,101,2008,"Animation, Adventure, Comedy, Family, Fantasy",116159,2008-07-19,Hayao Miyazaki
+427,tt5873150,2018-10-20,2018-10-20,,Strong Island,https://www.imdb.com/title/tt5873150/,movie,6.4,107,2017,Documentary,3234,2017-01-23,Yance Ford
+428,tt1319744,2018-10-20,2018-10-20,,The Interrupters,https://www.imdb.com/title/tt1319744/,movie,7.5,125,2011,"Documentary, Crime",3402,2011-01-21,Steve James
+429,tt1816518,2018-10-20,2018-10-20,,Ernest et Célestine,https://www.imdb.com/title/tt1816518/,movie,7.9,80,2012,"Animation, Adventure, Comedy, Crime, Drama, Family, Fantasy",17264,2012-05-23,"Stéphane Aubier, Benjamin Renner, Vincent Patar"
+430,tt0031762,2018-10-20,2018-10-20,,Only Angels Have Wings,https://www.imdb.com/title/tt0031762/,movie,7.7,121,1939,"Adventure, Drama, Romance",11829,1939-05-12,Howard Hawks
+431,tt6705860,2018-10-20,2018-10-20,,Diane,https://www.imdb.com/title/tt6705860/,movie,6.7,95,2018,Drama,1079,2018-04-22,Kent Jones
+432,tt3890160,2018-10-20,2018-10-20,,Baby Driver,https://www.imdb.com/title/tt3890160/,movie,7.6,113,2017,"Action, Crime, Drama, Music, Thriller",409850,2017-03-11,Edgar Wright
+433,tt2119463,2018-10-20,2018-10-20,,Let the Fire Burn,https://www.imdb.com/title/tt2119463/,movie,7.8,88,2013,Documentary,1202,2013-04-29,Jason Osder
+434,tt0169547,2018-10-20,2018-10-20,,American Beauty,https://www.imdb.com/title/tt0169547/,movie,8.3,122,1999,Drama,1036236,1999-09-08,Sam Mendes
+435,tt1512201,2018-10-20,2018-10-20,,Gui tu lie che,https://www.imdb.com/title/tt1512201/,movie,7.7,85,2009,"Documentary, Drama",3350,2009-11-22,Lixin Fan
+436,tt0759748,2018-10-20,2018-10-20,,Vies et morts d'Andy Warhol,https://www.imdb.com/title/tt0759748/,tvMovie,5.9,81,2005,Documentary,24,2005-11-25,Jean-Michel Vecchiet
+437,tt2125435,2018-10-20,2018-10-20,,Beasts of the Southern Wild,https://www.imdb.com/title/tt2125435/,movie,7.3,93,2012,"Adventure, Drama, Fantasy",79307,2012-01-20,Benh Zeitlin
+438,tt0101765,2018-10-20,2018-10-20,,La double vie de Véronique,https://www.imdb.com/title/tt0101765/,movie,7.8,98,1991,"Drama, Fantasy, Music, Mystery, Romance",39336,1991-05-15,Krzysztof Kieslowski
+439,tt0826711,2018-10-20,2018-10-20,,Le voyage du ballon rouge,https://www.imdb.com/title/tt0826711/,movie,6.6,115,2007,"Drama, Family",3763,2007-05-17,Hsiao-Hsien Hou
+440,tt7363336,2018-10-20,2018-10-20,,Nothing Like a Dame,https://www.imdb.com/title/tt7363336/,movie,7.3,84,2018,Documentary,1695,2018-05-02,Roger Michell
+441,tt0098258,2018-10-20,2018-10-20,,Say Anything...,https://www.imdb.com/title/tt0098258/,movie,7.3,100,1989,"Comedy, Drama, Romance",80121,1989-04-14,Cameron Crowe
+442,tt0247196,2018-10-20,2018-10-20,,Before Night Falls,https://www.imdb.com/title/tt0247196/,movie,7.2,133,2000,"Biography, Drama, Romance",23446,2000-09-03,Julian Schnabel
+443,tt6859352,2018-10-20,2018-10-20,,Support the Girls,https://www.imdb.com/title/tt6859352/,movie,6.4,93,2018,"Comedy, Drama",5906,2018-03-09,Andrew Bujalski
+444,tt0065724,2018-10-20,2018-10-20,,Five Easy Pieces,https://www.imdb.com/title/tt0065724/,movie,7.5,98,1970,Drama,31870,1970-09-11,Bob Rafelson
+445,tt0440963,2018-10-20,2018-10-20,,The Bourne Ultimatum,https://www.imdb.com/title/tt0440963/,movie,8.0,115,2007,"Action, Mystery, Thriller",593258,2007-07-25,Paul Greengrass
+446,tt0082971,2018-10-20,2018-10-20,,Raiders of the Lost Ark,https://www.imdb.com/title/tt0082971/,movie,8.4,115,1981,"Action, Adventure",852890,1981-06-12,Steven Spielberg
+447,tt1675192,2018-10-20,2018-10-20,,Take Shelter,https://www.imdb.com/title/tt1675192/,movie,7.4,121,2011,"Drama, Horror, Thriller",87797,2011-01-24,Jeff Nichols
+448,tt5186714,2018-10-20,2018-10-20,,Forushande,https://www.imdb.com/title/tt5186714/,movie,7.8,124,2016,"Drama, Thriller",46929,2016-05-21,Asghar Farhadi
+449,tt0253474,2018-10-20,2018-10-20,,The Pianist,https://www.imdb.com/title/tt0253474/,movie,8.5,150,2002,"Biography, Drama, Music, War",693944,2002-05-24,Roman Polanski
+450,tt0264476,2018-10-20,2018-10-20,,Children Underground,https://www.imdb.com/title/tt0264476/,movie,8.3,104,2001,Documentary,2169,2001-01-16,Edet Belzberg
+451,tt0203230,2018-10-20,2018-10-20,,You Can Count on Me,https://www.imdb.com/title/tt0203230/,movie,7.5,111,2000,Drama,27151,2000-01-21,Kenneth Lonergan
+452,tt0118749,2018-10-20,2018-10-20,,Boogie Nights,https://www.imdb.com/title/tt0118749/,movie,7.9,155,1997,Drama,229995,1997-09-11,Paul Thomas Anderson
+453,tt0082085,2018-10-20,2018-10-20,,Blow Out,https://www.imdb.com/title/tt0082085/,movie,7.4,108,1981,"Mystery, Thriller",41452,1981-07-07,Brian De Palma
+454,tt1124052,2018-10-20,2018-10-20,,Nanjing! Nanjing!,https://www.imdb.com/title/tt1124052/,movie,7.7,132,2009,"Drama, History, War",10048,2009-04-22,Chuan Lu
+455,tt1865505,2018-10-20,2018-10-20,,Song of the Sea,https://www.imdb.com/title/tt1865505/,movie,8.1,93,2014,"Animation, Adventure, Drama, Family, Fantasy",47967,2014-09-06,Tomm Moore
+456,tt2870648,2018-10-20,2018-10-20,,Amy,https://www.imdb.com/title/tt2870648/,movie,7.8,128,2015,"Documentary, Biography, Music",46595,2015-05-16,Asif Kapadia
+457,tt0880502,2018-10-20,2018-10-20,,Auf der anderen Seite,https://www.imdb.com/title/tt0880502/,movie,7.8,122,2007,Drama,29922,2007-05-23,Fatih Akin
+458,tt0775529,2018-10-20,2018-10-20,,The Savages,https://www.imdb.com/title/tt0775529/,movie,7.1,114,2007,"Comedy, Drama",35212,2007-01-19,Tamara Jenkins
+459,tt2901736,2018-10-20,2018-10-20,,Ilo Ilo,https://www.imdb.com/title/tt2901736/,movie,7.3,99,2013,Drama,4134,2013-05-19,Anthony Chen
+460,tt1483831,2018-10-20,2018-10-20,,Lebanon,https://www.imdb.com/title/tt1483831/,movie,6.9,93,2009,"Drama, War",10822,2009-09-08,Samuel Maoz
+461,tt4515684,2018-10-20,2018-10-20,,Comoara,https://www.imdb.com/title/tt4515684/,movie,6.7,89,2015,Comedy,2538,2015-05-21,Corneliu Porumboiu
+462,tt6098544,2018-10-20,2018-10-20,,I Am Another You,https://www.imdb.com/title/tt6098544/,movie,7.2,80,2017,Documentary,415,2017-03-12,Nanfu Wang
+463,tt3455822,2018-10-20,2018-10-20,,Night Will Fall,https://www.imdb.com/title/tt3455822/,movie,8.0,75,2014,"Documentary, History, War",2918,2014-06-07,André Singer
+464,tt0264578,2018-10-20,2018-10-20,,The Endurance: Shackleton's Legendary Antarctic Expedition,https://www.imdb.com/title/tt0264578/,movie,7.8,97,2000,"Documentary, History",1810,2000-09-02,George Butler
+465,tt3824458,2018-10-20,2018-10-20,,Tangerine,https://www.imdb.com/title/tt3824458/,movie,7.1,88,2015,"Comedy, Crime, Drama",25218,2015-01-23,Sean Baker
+466,tt1587707,2018-10-20,2018-10-20,,Exit Through the Gift Shop,https://www.imdb.com/title/tt1587707/,movie,8.0,87,2010,"Documentary, Comedy, Crime, History",60863,2010-01-24,Banksy
+467,tt3655522,2018-10-20,2018-10-20,,Bande de filles,https://www.imdb.com/title/tt3655522/,movie,6.9,113,2014,Drama,7481,2014-05-15,Céline Sciamma
+468,tt0118694,2018-10-20,2018-10-20,,Faa yeung nin wa,https://www.imdb.com/title/tt0118694/,movie,8.1,98,2000,"Drama, Romance",115754,2000-05-20,Kar-Wai Wong
+469,tt0095515,2018-10-20,2018-10-20,,Let's Get Lost,https://www.imdb.com/title/tt0095515/,movie,7.9,120,1988,"Documentary, Biography, Music",1750,1988-09-15,Bruce Weber
+470,tt0499537,2018-10-20,2018-10-20,,Offside,https://www.imdb.com/title/tt0499537/,movie,7.3,93,2006,"Comedy, Drama, Sport",7185,2006-02-01,Jafar Panahi
+471,tt4929038,2018-10-20,2018-10-20,,O Ornitólogo,https://www.imdb.com/title/tt4929038/,movie,6.3,117,2016,"Adventure, Drama, Mystery",2735,2016-08-08,João Pedro Rodrigues
+472,tt3904186,2018-10-20,2018-10-20,,Tales of the Grim Sleeper,https://www.imdb.com/title/tt3904186/,movie,7.0,110,2014,"Documentary, Crime",2614,2014-08-29,"Barney Broomfield, Marc Hoeferlin, Nick Broomfield"
+473,tt0478311,2018-10-20,2018-10-20,,Knocked Up,https://www.imdb.com/title/tt0478311/,movie,6.9,129,2007,"Comedy, Romance",342098,2007-03-12,Judd Apatow
+474,tt0095037,2018-10-20,2018-10-20,,"Distant Voices, Still Lives",https://www.imdb.com/title/tt0095037/,movie,7.4,84,1988,"Drama, Music",3489,1988-05-13,Terence Davies
+475,tt0424227,2018-10-20,2018-10-20,,Lakposhtha parvaz mikonand,https://www.imdb.com/title/tt0424227/,movie,8.1,98,2004,"Drama, War",17210,2004-09-10,Bahman Ghobadi
+476,tt0407887,2018-10-20,2018-10-20,,The Departed,https://www.imdb.com/title/tt0407887/,movie,8.5,151,2006,"Crime, Drama, Thriller",1140952,2006-09-26,Martin Scorsese
+477,tt3422078,2018-10-20,2018-10-20,,Avril et le monde truqué,https://www.imdb.com/title/tt3422078/,movie,7.3,105,2015,"Animation, Adventure, Comedy, Drama, Family, Mystery, Sci-Fi, Thriller",6278,2015-06-15,"Christian Desmares, Franck Ekinci"
+478,tt0372279,2018-10-20,2018-10-20,,Festival Express,https://www.imdb.com/title/tt0372279/,movie,7.6,90,2003,"Documentary, History, Music",2109,2003-09-09,"Frank Cvitanovich, Bob Smeaton"
+479,tt0374546,2018-10-20,2018-10-20,,Bom yeoreum gaeul gyeoul geurigo bom,https://www.imdb.com/title/tt0374546/,movie,8.0,103,2003,"Drama, Romance",74434,2003-08-14,Ki-duk Kim
+480,tt1174732,2018-10-20,2018-10-20,,An Education,https://www.imdb.com/title/tt1174732/,movie,7.3,100,2009,Drama,125856,2009-01-18,Lone Scherfig
+481,tt5840448,2018-10-20,2018-10-20,,Rat Film,https://www.imdb.com/title/tt5840448/,movie,6.6,82,2016,Documentary,529,2016-08-10,Theo Anthony
+482,tt1340800,2018-10-20,2018-10-20,,Tinker Tailor Soldier Spy,https://www.imdb.com/title/tt1340800/,movie,7.1,122,2011,"Drama, Mystery, Thriller",181311,2011-09-05,Tomas Alfredson
+483,tt0468489,2018-10-20,2018-10-20,,Half Nelson,https://www.imdb.com/title/tt0468489/,movie,7.2,106,2006,Drama,82524,2006-01-23,Ryan Fleck
+484,tt1156173,2018-10-20,2018-10-20,,Vincere,https://www.imdb.com/title/tt1156173/,movie,6.9,128,2009,"Biography, Drama, Romance",5161,2009-05-19,Marco Bellocchio
+485,tt0116282,2018-10-20,2018-10-20,,Fargo,https://www.imdb.com/title/tt0116282/,movie,8.1,98,1996,"Crime, Drama, Thriller",591734,1996-03-08,"Joel Coen, Ethan Coen"
+486,tt0457496,2018-10-20,2018-10-20,,Street Fight,https://www.imdb.com/title/tt0457496/,movie,7.9,83,2005,Documentary,1833,2005-04-23,Marshall Curry
+487,tt0105695,2018-10-20,2018-10-20,,Unforgiven,https://www.imdb.com/title/tt0105695/,movie,8.2,130,1992,"Drama, Western",360572,1992-08-03,Clint Eastwood
+488,tt6053438,2018-10-20,2018-10-20,,First Reformed,https://www.imdb.com/title/tt6053438/,movie,7.1,113,2017,"Drama, Mystery, Thriller",42851,2017-08-31,Paul Schrader
+489,tt0329321,2018-10-20,2018-10-20,,Love and Diane,https://www.imdb.com/title/tt0329321/,movie,7.9,155,2002,Documentary,79,2002-10-08,Jennifer Dworkin
+490,tt0257360,2018-10-20,2018-10-20,,About Schmidt,https://www.imdb.com/title/tt0257360/,movie,7.1,125,2002,"Comedy, Drama",120204,2002-05-22,Alexander Payne
+491,tt0305489,2018-10-20,2018-10-20,,Domestic Violence,https://www.imdb.com/title/tt0305489/,movie,7.9,196,2001,Documentary,231,2001-09-04,Frederick Wiseman
+492,tt0299977,2018-10-20,2018-10-20,,Ying xiong,https://www.imdb.com/title/tt0299977/,movie,7.9,107,2002,"Action, Adventure, History",170597,2002-10-24,Yimou Zhang
+493,tt0097322,2018-10-20,2018-10-20,,The Fabulous Baker Boys,https://www.imdb.com/title/tt0097322/,movie,6.8,114,1989,"Comedy, Drama, Music, Romance",21081,1989-10-13,Steve Kloves
+494,tt0473692,2018-10-20,2018-10-20,,Neil Young: Heart of Gold,https://www.imdb.com/title/tt0473692/,movie,7.7,103,2006,"Documentary, Music",2796,2006-02-10,Jonathan Demme
+495,tt2396589,2018-10-20,2018-10-20,,Mudbound,https://www.imdb.com/title/tt2396589/,movie,7.4,134,2017,"Drama, War",38795,2017-01-21,Dee Rees
+496,tt2321405,2018-10-20,2018-10-20,,Ma vie de Courgette,https://www.imdb.com/title/tt2321405/,movie,7.8,66,2016,"Animation, Comedy, Drama, Family",19724,2016-05-15,Claude Barras
+497,tt0102926,2018-10-20,2018-10-20,,The Silence of the Lambs,https://www.imdb.com/title/tt0102926/,movie,8.6,118,1991,"Crime, Drama, Thriller",1211612,1991-01-30,Jonathan Demme
+498,tt0248845,2018-10-20,2018-10-20,,Hedwig and the Angry Inch,https://www.imdb.com/title/tt0248845/,movie,7.7,95,2001,"Comedy, Drama, Music, Musical",31015,2001-01-19,John Cameron Mitchell
+499,tt0110308,2018-10-20,2018-10-20,,The Last Seduction,https://www.imdb.com/title/tt0110308/,movie,7.0,110,1994,"Crime, Drama, Romance, Thriller",20087,1994-02-18,John Dahl
+500,tt7681902,2018-10-20,2018-10-20,,Won't You Be My Neighbor?,https://www.imdb.com/title/tt7681902/,movie,8.4,95,2018,"Documentary, Biography",21035,2018-01-19,Morgan Neville
+501,tt5635086,2018-10-20,2018-10-20,,God's Own Country,https://www.imdb.com/title/tt5635086/,movie,7.7,104,2017,"Drama, Romance",21848,2017-01-23,Francis Lee
+502,tt4613272,2018-10-20,2018-10-20,,Lu Bian Ye Can,https://www.imdb.com/title/tt4613272/,movie,7.3,113,2015,"Drama, Mystery",2725,2015-08-11,Bi Gan
+503,tt0422491,2018-10-20,2018-10-20,,L'intrus,https://www.imdb.com/title/tt0422491/,movie,6.9,130,2004,Drama,1645,2004-09-09,Claire Denis
+504,tt0790808,2018-10-20,2018-10-20,,Forbidden Lie$,https://www.imdb.com/title/tt0790808/,movie,7.8,104,2007,"Documentary, Drama",572,2007-02-25,Anna Broinowski
+505,tt4901304,2018-10-20,2018-10-20,,Bei xi mo shou,https://www.imdb.com/title/tt4901304/,movie,7.6,95,2015,Documentary,842,2015-09-11,Liang Zhao
+506,tt0439817,2018-10-20,2018-10-20,,Solntse,https://www.imdb.com/title/tt0439817/,movie,7.3,110,2005,"Drama, History",2560,2005-02-17,Aleksandr Sokurov
+507,tt2404461,2018-10-20,2018-10-20,,Le passé,https://www.imdb.com/title/tt2404461/,movie,7.8,130,2013,"Drama, Mystery",43238,2013-05-17,Asghar Farhadi
+508,tt0274309,2018-10-20,2018-10-20,,24 Hour Party People,https://www.imdb.com/title/tt0274309/,movie,7.3,117,2002,"Biography, Comedy, Drama, Music",32016,2002-02-13,Michael Winterbottom
+509,tt0783233,2018-10-20,2018-10-20,,Atonement,https://www.imdb.com/title/tt0783233/,movie,7.8,123,2007,"Drama, Mystery, Romance, War",239528,2007-08-28,Joe Wright
+510,tt0478304,2018-10-20,2018-10-20,,The Tree of Life,https://www.imdb.com/title/tt0478304/,movie,6.8,139,2011,"Drama, Fantasy",163228,2011-05-16,Terrence Malick
+511,tt1034427,2018-10-20,2018-10-20,,Aleksandra,https://www.imdb.com/title/tt1034427/,movie,6.8,95,2007,"Drama, War",2469,2007-05-24,Aleksandr Sokurov
+512,tt2527336,2018-10-20,2018-10-20,,Star Wars: Episode VIII - The Last Jedi,https://www.imdb.com/title/tt2527336/,movie,7.0,152,2017,"Action, Adventure, Fantasy, Sci-Fi",536892,2017-12-09,Rian Johnson
+513,tt0468492,2018-10-20,2018-10-20,,Gwoemul,https://www.imdb.com/title/tt0468492/,movie,7.1,120,2006,"Action, Drama, Horror, Sci-Fi",98893,2006-05-21,Bong Joon Ho
+514,tt6509432,2018-10-20,2018-10-20,,The Departure,https://www.imdb.com/title/tt6509432/,movie,7.0,87,2017,Documentary,157,2017-04-21,Lana Wilson
+515,tt5350800,2018-10-20,2018-10-20,,Royahaye dame sobh,https://www.imdb.com/title/tt5350800/,movie,7.9,76,2016,Documentary,214,2016-02-16,Mehrdad Oskouei
+516,tt1559549,2018-10-20,2018-10-20,,Restrepo,https://www.imdb.com/title/tt1559549/,movie,7.5,93,2010,"Documentary, Biography, War",21571,2010-01-31,"Sebastian Junger, Tim Hetherington"
+517,tt0836700,2018-10-20,2018-10-20,,L'heure d'été,https://www.imdb.com/title/tt0836700/,movie,7.2,103,2008,"Drama, Family",6913,2008-03-03,Olivier Assayas
+518,tt0046451,2018-10-20,2018-10-20,,Touchez pas au grisbi,https://www.imdb.com/title/tt0046451/,movie,7.8,94,1954,"Crime, Drama",6434,1954-03-17,Jacques Becker
+519,tt0120780,2018-10-20,2018-10-20,,Out of Sight,https://www.imdb.com/title/tt0120780/,movie,7.0,123,1998,"Comedy, Crime, Drama, Romance, Thriller",82546,1998-06-26,Steven Soderbergh
+520,tt0095675,2018-10-20,2018-10-20,,"Mujeres al borde de un ataque de ""nervios""",https://www.imdb.com/title/tt0095675/,movie,7.6,88,1988,"Comedy, Drama",33972,1988-03-14,Pedro Almodóvar
+521,tt0129167,2018-10-20,2018-10-20,,The Iron Giant,https://www.imdb.com/title/tt0129167/,movie,8.0,86,1999,"Animation, Action, Adventure, Comedy, Drama, Family, Sci-Fi",165716,1999-07-31,Brad Bird
+522,tt3457144,2018-10-20,2018-10-20,,Passing Strange,https://www.imdb.com/title/tt3457144/,movie,6.0,135,2009,"Documentary, Musical",278,2009-01-20,Spike Lee
+523,tt1518812,2018-10-20,2018-10-20,,Meek's Cutoff,https://www.imdb.com/title/tt1518812/,movie,6.5,104,2010,"Drama, Western",11494,2010-09-05,Kelly Reichardt
+524,tt0108394,2018-10-20,2018-10-20,,Trois couleurs: Bleu,https://www.imdb.com/title/tt0108394/,movie,7.9,94,1993,"Drama, Music, Mystery, Romance",83946,1993-09-03,Krzysztof Kieslowski
+525,tt0104753,2018-10-20,2018-10-20,,The Long Day Closes,https://www.imdb.com/title/tt0104753/,movie,7.4,85,1992,"Biography, Drama",2653,1992-05-13,Terence Davies
+526,tt2334649,2018-10-20,2018-10-20,,Fruitvale Station,https://www.imdb.com/title/tt2334649/,movie,7.5,85,2013,"Biography, Crime, Drama, Romance",71678,2013-01-19,Ryan Coogler
+527,tt0074285,2018-10-20,2018-10-20,,Carrie,https://www.imdb.com/title/tt0074285/,movie,7.4,98,1976,Horror,161311,1976-11-03,Brian De Palma
+528,tt2049589,2018-10-20,2018-10-20,,Watchers of the Sky,https://www.imdb.com/title/tt2049589/,movie,7.2,120,2014,"Documentary, Biography, History, News",236,2014-01-20,Edet Belzberg
+529,tt0057076,2018-10-20,2018-10-20,,From Russia with Love,https://www.imdb.com/title/tt0057076/,movie,7.4,115,1963,"Action, Adventure, Thriller",113250,1963-10-10,Terence Young
+530,tt5215486,2018-10-20,2018-10-20,,Dawson City: Frozen Time,https://www.imdb.com/title/tt5215486/,movie,7.5,120,2016,"Documentary, History",1407,2016-09-05,Bill Morrison
+531,tt0336264,2018-10-20,2018-10-20,,Depuis qu'Otar est parti...,https://www.imdb.com/title/tt0336264/,movie,7.5,103,2003,Drama,2494,2003-05-20,Julie Bertuccelli
+532,tt0255094,2018-10-20,2018-10-20,,Dayereh,https://www.imdb.com/title/tt0255094/,movie,7.4,90,2000,Drama,5533,2000-09-07,Jafar Panahi
+533,tt0240912,2018-10-20,2018-10-20,,Sound and Fury,https://www.imdb.com/title/tt0240912/,movie,7.9,80,2000,Documentary,929,2000-01-21,Josh Aronson
+534,tt0236576,2018-10-20,2018-10-20,,Paragraph 175,https://www.imdb.com/title/tt0236576/,movie,7.7,81,2000,"Documentary, History, Romance, War",1790,2000-01-22,"Rob Epstein, Jeffrey Friedman"
+535,tt2076220,2018-10-20,2018-10-20,,Holy Motors,https://www.imdb.com/title/tt2076220/,movie,7.1,115,2012,"Drama, Fantasy",39698,2012-05-23,Leos Carax
+536,tt5836866,2018-10-20,2018-10-20,,The Work,https://www.imdb.com/title/tt5836866/,movie,7.9,89,2017,Documentary,1810,2017-03-10,"Gethin Aldous, Jairus McLeary"
+537,tt0117666,2018-10-20,2018-10-20,,Sling Blade,https://www.imdb.com/title/tt0117666/,movie,8.0,135,1996,Drama,84879,1996-08-30,Billy Bob Thornton
+538,tt5294966,2018-10-20,2018-10-20,,Umi yori mo mada fukaku,https://www.imdb.com/title/tt5294966/,movie,7.4,118,2016,"Comedy, Drama",8466,2016-05-18,Hirokazu Koreeda
+539,tt0993789,2018-10-20,2018-10-20,,Un conte de Noël,https://www.imdb.com/title/tt0993789/,movie,7.1,150,2008,"Comedy, Drama",6443,2008-05-16,Arnaud Desplechin
+540,tt0925248,2018-10-20,2018-10-20,,In the Shadow of the Moon,https://www.imdb.com/title/tt0925248/,movie,8.0,100,2007,"Documentary, History",6436,2007-01-19,David Sington
+541,tt0052698,2018-10-20,2018-10-20,,Classe tous risques,https://www.imdb.com/title/tt0052698/,movie,7.6,110,1960,"Crime, Drama, Romance, Thriller",2995,1960-03-23,Claude Sautet
+542,tt0206634,2018-10-20,2018-10-20,,Children of Men,https://www.imdb.com/title/tt0206634/,movie,7.9,109,2006,"Drama, Sci-Fi, Thriller",447730,2006-09-03,Alfonso Cuarón
+543,tt1173745,2018-10-20,2018-10-20,,Revanche,https://www.imdb.com/title/tt1173745/,movie,7.5,121,2008,"Crime, Drama, Romance, Thriller",13334,2008-02-10,Götz Spielmann
+544,tt0311519,2018-10-20,2018-10-20,,Mies vailla menneisyyttä,https://www.imdb.com/title/tt0311519/,movie,7.7,97,2002,"Comedy, Drama, Romance",21334,2002-03-01,Aki Kaurismäki
+545,tt0181288,2018-10-20,2018-10-20,,American Movie,https://www.imdb.com/title/tt0181288/,movie,7.9,107,1999,"Documentary, Comedy",16346,1999-01-31,Chris Smith
+546,tt1748122,2018-10-20,2018-10-20,,Moonrise Kingdom,https://www.imdb.com/title/tt1748122/,movie,7.8,94,2012,"Comedy, Drama, Romance",306552,2012-05-16,Wes Anderson
+547,tt6135348,2018-10-20,2018-10-20,,120 battements par minute,https://www.imdb.com/title/tt6135348/,movie,7.4,143,2017,Drama,12192,2017-05-20,Robin Campillo
+548,tt0260775,2018-10-20,2018-10-20,,Calle 54,https://www.imdb.com/title/tt0260775/,movie,7.5,105,2000,"Documentary, Music",748,2000-09-08,Fernando Trueba
+549,tt3907156,2018-10-20,2018-10-20,,Cavalo Dinheiro,https://www.imdb.com/title/tt3907156/,movie,7.0,103,2014,Drama,1325,2014-08-13,Pedro Costa
+550,tt1114277,2018-10-20,2018-10-20,,Up the Yangtze,https://www.imdb.com/title/tt1114277/,movie,7.5,93,2007,Documentary,1756,2007-09-30,Yung Chang
+551,tt0095302,2018-10-20,2018-10-20,,High Hopes,https://www.imdb.com/title/tt0095302/,movie,7.4,108,1988,"Comedy, Drama",4150,1988-08-30,Mike Leigh
+552,tt6510332,2018-10-20,2018-10-20,,McQueen,https://www.imdb.com/title/tt6510332/,movie,7.8,111,2018,"Documentary, Biography",5840,2018-04-22,"Ian Bonhôte, Peter Ettedgui"
+553,tt0078872,2018-10-20,2018-10-20,,The Black Stallion,https://www.imdb.com/title/tt0078872/,movie,7.3,118,1979,"Adventure, Family, Sport",11231,1979-10-13,Carroll Ballard
+554,tt4016934,2018-10-20,2018-10-20,,Ah-ga-ssi,https://www.imdb.com/title/tt4016934/,movie,8.1,145,2016,"Drama, Romance, Thriller",98482,2016-05-14,Chan-wook Park
+555,tt0259393,2018-10-20,2018-10-20,,Lantana,https://www.imdb.com/title/tt0259393/,movie,7.2,121,2001,"Drama, Mystery, Romance",18083,2001-06-08,Ray Lawrence
+556,tt1048171,2018-10-20,2018-10-20,,Séraphine,https://www.imdb.com/title/tt1048171/,movie,7.4,125,2008,"Biography, Drama",5688,2008-09-07,Martin Provost
+557,tt0473434,2018-10-20,2018-10-20,,49 Up,https://www.imdb.com/title/tt0473434/,tvMovie,8.2,180,2005,"Documentary, Biography",2543,2005-09-15,"Michael Apted, Paul Almond"
+558,tt0107653,2018-10-20,2018-10-20,,Naked,https://www.imdb.com/title/tt0107653/,movie,7.8,132,1993,"Comedy, Drama",32444,1993-05-14,Mike Leigh
+559,tt0092699,2018-10-20,2018-10-20,,Broadcast News,https://www.imdb.com/title/tt0092699/,movie,7.2,133,1987,"Comedy, Drama, Romance",25842,1987-12-13,James L. Brooks
+560,tt5182856,2018-10-20,2018-10-20,,Fuchi ni tatsu,https://www.imdb.com/title/tt5182856/,movie,6.9,120,2016,Drama,1821,2016-05-14,Kôji Fukada
+561,tt1013753,2018-10-20,2018-10-20,,Milk,https://www.imdb.com/title/tt1013753/,movie,7.5,128,2008,"Biography, Drama",160848,2008-10-28,Gus Van Sant
+562,tt0845439,2018-10-20,2018-10-20,,Chaharshanbe-soori,https://www.imdb.com/title/tt0845439/,movie,7.7,102,2006,"Drama, Mystery, Romance, Thriller",9338,2006-02-01,Asghar Farhadi
+563,tt4935446,2018-10-20,2018-10-20,,Heart of a Dog,https://www.imdb.com/title/tt4935446/,movie,7.1,75,2015,Documentary,2003,2015-09-04,Laurie Anderson
+564,tt0346094,2018-10-20,2018-10-20,,Uzak,https://www.imdb.com/title/tt0346094/,movie,7.6,110,2002,Drama,17486,2002-10-31,Nuri Bilge Ceylan
+565,tt0297884,2018-10-20,2018-10-20,,Far from Heaven,https://www.imdb.com/title/tt0297884/,movie,7.3,107,2002,Drama,42758,2002-09-02,Todd Haynes
+566,tt0169102,2018-10-20,2018-10-20,,Lagaan: Once Upon a Time in India,https://www.imdb.com/title/tt0169102/,movie,8.1,224,2001,"Adventure, Drama, Musical, Sport",100172,2001-06-15,Ashutosh Gowariker
+567,tt0283509,2018-10-20,2018-10-20,,No Man's Land,https://www.imdb.com/title/tt0283509/,movie,7.9,98,2001,"Comedy, Drama, War",43464,2001-05-12,Danis Tanovic
+568,tt0107943,2018-10-20,2018-10-20,,The Remains of the Day,https://www.imdb.com/title/tt0107943/,movie,7.8,134,1993,"Drama, Romance",62375,1993-10-25,James Ivory
+569,tt4374460,2018-10-20,2018-10-20,,Aferim!,https://www.imdb.com/title/tt4374460/,movie,7.6,108,2015,"Adventure, Comedy, Drama, History, Western",6121,2015-02-11,Radu Jude
+570,tt1820488,2018-10-20,2018-10-20,,Rebelle,https://www.imdb.com/title/tt1820488/,movie,7.1,90,2012,"Drama, War",6873,2012-02-17,Kim Nguyen
+571,tt0424024,2018-10-20,2018-10-20,,Darwin's Nightmare,https://www.imdb.com/title/tt0424024/,movie,7.5,107,2004,Documentary,5289,2004-09-01,Hubert Sauper
+572,tt0090605,2018-10-20,2018-10-20,,Aliens,https://www.imdb.com/title/tt0090605/,movie,8.3,137,1986,"Action, Adventure, Sci-Fi, Thriller",630367,1986-07-14,James Cameron
+573,tt1093842,2018-10-20,2018-10-20,,My Winnipeg,https://www.imdb.com/title/tt1093842/,movie,7.6,80,2007,"Documentary, Comedy, Drama, History",4756,2007-09-07,Guy Maddin
+574,tt0327056,2018-10-20,2018-10-20,,Mystic River,https://www.imdb.com/title/tt0327056/,movie,7.9,138,2003,"Crime, Drama, Mystery, Thriller",405945,2003-05-23,Clint Eastwood
+575,tt1736633,2018-10-20,2018-10-20,,"Oslo, 31. august",https://www.imdb.com/title/tt1736633/,movie,7.6,95,2011,Drama,18818,2011-05-18,Joachim Trier
+576,tt1276104,2018-10-20,2018-10-20,,Looper,https://www.imdb.com/title/tt1276104/,movie,7.4,113,2012,"Action, Adventure, Crime, Drama, Sci-Fi, Thriller",520329,2012-09-06,Rian Johnson
+577,tt4936450,2018-10-20,2018-10-20,,Bacalaureat,https://www.imdb.com/title/tt4936450/,movie,7.3,128,2016,"Crime, Drama",11459,2016-05-19,Cristian Mungiu
+578,tt5222918,2018-10-20,2018-10-20,,Toivon tuolla puolen,https://www.imdb.com/title/tt5222918/,movie,7.2,100,2017,"Comedy, Drama",10145,2017-01-25,Aki Kaurismäki
+579,tt5960374,2018-10-20,2018-10-20,,Vox Lux,https://www.imdb.com/title/tt5960374/,movie,5.9,114,2018,"Drama, Music",14554,2018-09-04,Brady Corbet
+580,tt1122599,2018-10-20,2018-10-20,,Momma's Man,https://www.imdb.com/title/tt1122599/,movie,6.0,94,2008,"Comedy, Drama",616,2008-01-18,Azazel Jacobs
+581,tt0468526,2018-10-20,2018-10-20,,Old Joy,https://www.imdb.com/title/tt0468526/,movie,6.8,76,2006,Drama,5994,2006-01-28,Kelly Reichardt
+582,tt0344273,2018-10-20,2018-10-20,,Rois et reine,https://www.imdb.com/title/tt0344273/,movie,7.1,150,2004,"Comedy, Drama, Romance",3599,2004-09-03,Arnaud Desplechin
+583,tt0126029,2018-10-20,2018-10-20,,Shrek,https://www.imdb.com/title/tt0126029/,movie,7.8,90,2001,"Animation, Adventure, Comedy, Family, Fantasy",592605,2001-04-22,"Vicky Jenson, Andrew Adamson"
+584,tt7464188,2018-10-20,2018-10-20,,In Fabric,https://www.imdb.com/title/tt7464188/,movie,6.3,118,2018,"Comedy, Horror",6495,2018-09-13,Peter Strickland
+585,tt5742374,2018-10-20,2018-10-20,,You Were Never Really Here,https://www.imdb.com/title/tt5742374/,movie,6.8,89,2017,"Crime, Drama, Mystery, Thriller",92618,2017-05-27,Lynne Ramsay
+586,tt0107207,2018-10-20,2018-10-20,,In the Name of the Father,https://www.imdb.com/title/tt0107207/,movie,8.1,133,1993,"Biography, Drama",149654,1993-12-12,Jim Sheridan
+587,tt1153690,2018-10-20,2018-10-20,,Ballast,https://www.imdb.com/title/tt1153690/,movie,6.9,96,2008,Drama,2190,2008-01-19,Lance Hammer
+588,tt0441909,2018-10-20,2018-10-20,,Volver,https://www.imdb.com/title/tt0441909/,movie,7.6,121,2006,"Comedy, Drama",91922,2006-03-10,Pedro Almodóvar
+589,tt2486682,2018-10-20,2018-10-20,,Al midan,https://www.imdb.com/title/tt2486682/,movie,8.1,108,2013,"Documentary, News",8343,2013-01-18,Jehane Noujaim
+590,tt5457078,2018-10-20,2018-10-20,,Love After Love,https://www.imdb.com/title/tt5457078/,movie,5.4,91,2017,"Drama, Romance",791,2017-04-22,Russell Harbaugh
+591,tt0468569,2018-10-20,2018-10-20,,The Dark Knight,https://www.imdb.com/title/tt0468569/,movie,9.0,152,2008,"Action, Crime, Drama, Thriller",2207596,2008-07-14,Christopher Nolan
+592,tt6265828,2018-10-20,2018-10-20,,A Ghost Story,https://www.imdb.com/title/tt6265828/,movie,6.8,92,2017,"Drama, Fantasy, Romance",54533,2017-01-22,David Lowery
+593,tt0102048,2018-10-20,2018-10-20,,Homicide,https://www.imdb.com/title/tt0102048/,movie,7.0,102,1991,"Crime, Drama, Thriller",5825,1991-05-31,David Mamet
+594,tt2268732,2018-10-20,2018-10-20,,Museum Hours,https://www.imdb.com/title/tt2268732/,movie,6.9,107,2012,Drama,1868,2012-08-08,Jem Cohen
+595,tt0140352,2018-10-20,2018-10-20,,The Insider,https://www.imdb.com/title/tt0140352/,movie,7.8,157,1999,"Biography, Drama, Thriller",155203,1999-10-28,Michael Mann
+596,tt0107282,2018-10-20,2018-10-20,,The Joy Luck Club,https://www.imdb.com/title/tt0107282/,movie,7.7,139,1993,Drama,14608,1993-09-10,Wayne Wang
+597,tt1033575,2018-10-20,2018-10-20,,The Descendants,https://www.imdb.com/title/tt1033575/,movie,7.3,115,2011,"Comedy, Drama",228317,2011-09-02,Alexander Payne
+598,tt1213641,2018-10-20,2018-10-20,,First Man,https://www.imdb.com/title/tt1213641/,movie,7.3,141,2018,"Biography, Drama, History",151608,2018-08-29,Damien Chazelle
+599,tt0088247,2018-10-20,2018-10-20,,The Terminator,https://www.imdb.com/title/tt0088247/,movie,8.0,107,1984,"Action, Sci-Fi",773435,1984-10-26,James Cameron
+600,tt0292963,2018-10-20,2018-10-20,,Before the Devil Knows You're Dead,https://www.imdb.com/title/tt0292963/,movie,7.3,117,2007,"Crime, Drama, Thriller",93350,2007-09-07,Sidney Lumet
+601,tt1706620,2018-10-20,2018-10-20,,Snowpiercer,https://www.imdb.com/title/tt1706620/,movie,7.1,126,2013,"Action, Drama, Sci-Fi",284385,2013-07-29,Bong Joon Ho
+602,tt1045670,2018-10-20,2018-10-20,,Happy-Go-Lucky,https://www.imdb.com/title/tt1045670/,movie,7.0,118,2008,"Comedy, Drama, Romance",36820,2008-02-12,Mike Leigh
+603,tt0431213,2018-10-20,2018-10-20,,Lassie,https://www.imdb.com/title/tt0431213/,movie,6.7,100,2005,"Adventure, Comedy, Drama, Family",4033,2005-12-16,Charles Sturridge
+604,tt4273292,2018-10-20,2018-10-20,,Under the Shadow,https://www.imdb.com/title/tt4273292/,movie,6.9,84,2016,"Drama, Horror, Thriller, War",21731,2016-01-22,Babak Anvari
+605,tt5052448,2018-10-20,2018-10-20,,Get Out,https://www.imdb.com/title/tt5052448/,movie,7.7,104,2017,"Horror, Mystery, Thriller",458441,2017-01-23,Jordan Peele
+606,tt0425598,2018-10-20,2018-10-20,,Dave Chappelle's Block Party,https://www.imdb.com/title/tt0425598/,movie,7.2,103,2005,"Documentary, Comedy, Music",8678,2005-09-12,Michel Gondry
+607,tt0258068,2018-10-20,2018-10-20,,The Quiet American,https://www.imdb.com/title/tt0258068/,movie,7.0,101,2002,"Drama, Romance, Thriller, War",26736,2002-09-09,Phillip Noyce
+608,tt0294431,2018-10-20,2018-10-20,,Le cas Pinochet,https://www.imdb.com/title/tt0294431/,movie,7.5,110,2001,Documentary,286,2001-05-16,Patricio Guzmán
+609,tt0260332,2018-10-20,2018-10-20,,Roozi ke zan shodam,https://www.imdb.com/title/tt0260332/,movie,7.3,78,2000,"Comedy, Drama",1504,2000-09-02,Marzieh Makhmalbaf
+610,tt0114388,2018-10-20,2018-10-20,,Sense and Sensibility,https://www.imdb.com/title/tt0114388/,movie,7.6,136,1995,"Drama, Romance",97789,1995-12-04,Ang Lee
+611,tt5278596,2018-10-20,2018-10-20,,Weiner,https://www.imdb.com/title/tt5278596/,movie,7.6,96,2016,Documentary,9462,2016-01-24,"Josh Kriegman, Elyse Steinberg"
+612,tt0790636,2018-10-20,2018-10-20,,Dallas Buyers Club,https://www.imdb.com/title/tt0790636/,movie,8.0,117,2013,"Biography, Drama",423511,2013-09-07,Jean-Marc Vallée
+613,tt0492466,2018-10-20,2018-10-20,,Iraq in Fragments,https://www.imdb.com/title/tt0492466/,movie,7.3,94,2006,"Documentary, War",1379,2006-01-21,James Longley
+614,tt1313104,2018-10-20,2018-10-20,,The Cove,https://www.imdb.com/title/tt1313104/,movie,8.4,92,2009,"Documentary, Biography, Crime, History, News",46449,2009-04-25,Louie Psihoyos
+615,tt0054248,2018-10-20,2018-10-20,,Rocco e i suoi fratelli,https://www.imdb.com/title/tt0054248/,movie,8.3,177,1960,"Crime, Drama, Sport",15572,1960-09-06,Luchino Visconti
+616,tt0446747,2018-10-20,2018-10-20,,Mutual Appreciation,https://www.imdb.com/title/tt0446747/,movie,6.7,109,2005,Comedy,1780,2005-03-18,Andrew Bujalski
+617,tt0078841,2018-10-20,2018-10-20,,Being There,https://www.imdb.com/title/tt0078841/,movie,8.0,130,1979,"Comedy, Drama",63213,1979-12-20,Hal Ashby
+618,tt1618399,2018-10-20,2018-10-20,,The Waiting Room,https://www.imdb.com/title/tt1618399/,movie,7.1,81,2012,Documentary,741,2012-06-19,Peter Nicks
+619,tt3119416,2018-10-20,2018-10-20,,Jiao you,https://www.imdb.com/title/tt3119416/,movie,7.0,138,2013,Drama,2233,2013-09-05,Ming-liang Tsai
+620,tt1436045,2018-10-20,2018-10-20,,Jûsan-nin no shikaku,https://www.imdb.com/title/tt1436045/,movie,7.6,141,2010,"Action, Adventure, Drama",60032,2010-09-09,Takashi Miike
+621,tt0293113,2018-10-20,2018-10-20,,Dracula: Pages from a Virgin's Diary,https://www.imdb.com/title/tt0293113/,movie,6.8,73,2002,"Horror, Musical",1837,2002-02-28,Guy Maddin
+622,tt0203166,2018-10-20,2018-10-20,,Tillsammans,https://www.imdb.com/title/tt0203166/,movie,7.4,106,2000,"Comedy, Drama, Romance",20123,2000-08-25,Lukas Moodysson
+623,tt1653827,2018-10-20,2018-10-20,,Boxing Gym,https://www.imdb.com/title/tt1653827/,movie,6.9,91,2010,Documentary,444,2010-05-20,Frederick Wiseman
+624,tt1337193,2018-10-20,2018-10-20,,Guy and Madeline on a Park Bench,https://www.imdb.com/title/tt1337193/,movie,6.1,82,2009,"Drama, Musical",1336,2009-04-23,Damien Chazelle
+625,tt1263670,2018-10-20,2018-10-20,,Crazy Heart,https://www.imdb.com/title/tt1263670/,movie,7.2,112,2009,"Drama, Music, Romance",82132,2009-12-06,Scott Cooper
+626,tt3560686,2018-10-20,2018-10-20,,Durak,https://www.imdb.com/title/tt3560686/,movie,8.0,116,2014,"Crime, Drama, Thriller",10466,2014-08-09,Yuriy Bykov
+627,tt2937696,2018-10-20,2018-10-20,,Everybody Wants Some!!,https://www.imdb.com/title/tt2937696/,movie,6.9,117,2016,Comedy,50102,2016-03-11,Richard Linklater
+628,tt1683048,2018-10-20,2018-10-20,,De Palma,https://www.imdb.com/title/tt1683048/,movie,7.4,110,2015,"Documentary, Biography",4564,2015-09-09,"Jake Paltrow, Noah Baumbach"
+629,tt0113670,2018-10-20,2018-10-20,,A Little Princess,https://www.imdb.com/title/tt0113670/,movie,7.7,97,1995,"Drama, Family, Fantasy",30993,1995-05-10,Alfonso Cuarón
+630,tt6002232,2018-10-20,2018-10-20,,Jusqu'à la garde,https://www.imdb.com/title/tt6002232/,movie,7.5,93,2017,Drama,7412,2017-09-08,Xavier Legrand
+631,tt0268126,2018-10-20,2018-10-20,,Adaptation.,https://www.imdb.com/title/tt0268126/,movie,7.7,115,2002,"Comedy, Drama",171467,2002-12-03,Spike Jonze
+632,tt0263338,2018-10-20,2018-10-20,,Fighter,https://www.imdb.com/title/tt0263338/,movie,7.2,91,2000,Documentary,223,2000-04-30,Amir Bar-Lev
+633,tt0108170,2018-10-20,2018-10-20,,Screen Two: The Snapper,https://www.imdb.com/title/tt0108170/,tvEpisode,7.3,91,1993,Drama,5479,1993-04-04,Stephen Frears
+634,tt0499549,2018-10-20,2018-10-20,,Avatar,https://www.imdb.com/title/tt0499549/,movie,7.8,162,2009,"Action, Adventure, Fantasy, Sci-Fi",1090509,2009-12-10,James Cameron
+635,tt3066630,2018-10-20,2018-10-20,,The Forbidden Room,https://www.imdb.com/title/tt3066630/,movie,6.1,130,2015,"Comedy, Mystery",2832,2015-01-26,"Evan Johnson, Guy Maddin"
+636,tt0487419,2018-10-20,2018-10-20,,La graine et le mulet,https://www.imdb.com/title/tt0487419/,movie,7.4,151,2007,Drama,6687,2007-09-03,Abdellatif Kechiche
+637,tt0117951,2018-10-20,2018-10-20,,Trainspotting,https://www.imdb.com/title/tt0117951/,movie,8.1,93,1996,Drama,616089,1996-02-23,Danny Boyle
+638,tt0114906,2018-10-20,2018-10-20,,Welcome to the Dollhouse,https://www.imdb.com/title/tt0114906/,movie,7.4,88,1995,"Comedy, Drama",30958,1995-09-10,Todd Solondz
+639,tt0074174,2018-10-20,2018-10-20,,The Bad News Bears,https://www.imdb.com/title/tt0074174/,movie,7.3,102,1976,"Comedy, Drama, Family, Sport",19562,1976-04-05,Michael Ritchie
+640,tt0432283,2018-10-20,2018-10-20,,Fantastic Mr. Fox,https://www.imdb.com/title/tt0432283/,movie,7.9,87,2009,"Animation, Adventure, Comedy, Crime, Drama, Family",188519,2009-10-14,Wes Anderson
+641,tt1226774,2018-10-20,2018-10-20,,In the Loop,https://www.imdb.com/title/tt1226774/,movie,7.4,106,2009,Comedy,53043,2009-01-22,Armando Iannucci
+642,tt0340468,2018-10-20,2018-10-20,,Ônibus 174,https://www.imdb.com/title/tt0340468/,movie,7.8,150,2002,"Documentary, Crime",7712,2002-10-22,"José Padilha, Felipe Lacerda"
+643,tt0368913,2018-10-20,2018-10-20,,Osama,https://www.imdb.com/title/tt0368913/,movie,7.3,83,2003,Drama,8449,2003-05-20,Siddiq Barmak
+644,tt0245712,2018-10-20,2018-10-20,,Amores perros,https://www.imdb.com/title/tt0245712/,movie,8.1,154,2000,"Drama, Thriller",216114,2000-05-14,Alejandro G. Iñárritu
+645,tt0247380,2018-10-20,2018-10-20,,Les glaneurs et la glaneuse,https://www.imdb.com/title/tt0247380/,movie,7.7,82,2000,Documentary,5591,2000-07-06,Agnès Varda
+646,tt3674140,2018-10-20,2018-10-20,,The Salt of the Earth,https://www.imdb.com/title/tt3674140/,movie,8.5,110,2014,"Documentary, Biography, History",18668,2014-05-20,"Wim Wenders, Juliano Ribeiro Salgado"
+647,tt5937296,2018-10-20,2018-10-20,,Slava,https://www.imdb.com/title/tt5937296/,movie,7.6,101,2016,Drama,1902,2016-08-04,"Kristina Grozeva, Petar Valchanov"
+648,tt0110357,2018-10-20,2018-10-20,,The Lion King,https://www.imdb.com/title/tt0110357/,movie,8.5,88,1994,"Animation, Adventure, Drama, Family, Musical",902447,1994-06-12,"Rob Minkoff, Roger Allers"
+649,tt7681824,2018-10-20,2018-10-20,,We the Animals,https://www.imdb.com/title/tt7681824/,movie,6.9,94,2018,Drama,3440,2018-01-20,Jeremiah Zagar
+650,tt4682562,2018-10-20,2018-10-20,,Opiseu,https://www.imdb.com/title/tt4682562/,movie,6.0,111,2015,"Horror, Mystery, Thriller",1815,2015-05-18,Won-Chan Hong
+651,tt0990404,2018-10-20,2018-10-20,,Chop Shop,https://www.imdb.com/title/tt0990404/,movie,7.3,84,2007,Drama,3942,2007-05-21,Ramin Bahrani
+652,tt0097814,2018-10-20,2018-10-20,,Majo no takkyûbin,https://www.imdb.com/title/tt0097814/,movie,7.8,103,1989,"Animation, Adventure, Drama, Family, Fantasy",113078,1989-07-29,Hayao Miyazaki
+653,tt0316188,2018-10-20,2018-10-20,,Raising Victor Vargas,https://www.imdb.com/title/tt0316188/,movie,7.2,88,2002,"Drama, Romance",5102,2002-05-16,Peter Sollett
+654,tt0096438,2018-10-20,2018-10-20,,Who Framed Roger Rabbit,https://www.imdb.com/title/tt0096438/,movie,7.7,104,1988,"Animation, Adventure, Comedy, Crime, Family, Fantasy, Mystery",176053,1988-06-21,"Robert Zemeckis, Richard Williams"
+655,tt2614684,2018-10-20,2018-10-20,,'71,https://www.imdb.com/title/tt2614684/,movie,7.2,99,2014,"Action, Crime, Drama, Thriller, War",48686,2014-02-07,Yann Demange
+656,tt2545118,2018-10-20,2018-10-20,,Blackfish,https://www.imdb.com/title/tt2545118/,movie,8.1,83,2013,"Documentary, News",59661,2013-01-19,Gabriela Cowperthwaite
+657,tt4263482,2018-10-20,2018-10-20,,The VVitch: A New-England Folktale,https://www.imdb.com/title/tt4263482/,movie,6.9,92,2015,"Drama, Horror, Mystery",182195,2015-01-23,Robert Eggers
+658,tt0059229,2018-10-20,2018-10-20,,Giulietta degli spiriti,https://www.imdb.com/title/tt0059229/,movie,7.6,137,1965,"Comedy, Drama, Fantasy",11150,1965-10-16,Federico Fellini
+659,tt8359848,2018-10-20,2018-10-20,,Climax,https://www.imdb.com/title/tt8359848/,movie,7.1,97,2018,"Drama, Horror, Music, Thriller",42945,2018-05-13,Gaspar Noé
+660,tt0121164,2018-10-20,2018-10-20,,Corpse Bride,https://www.imdb.com/title/tt0121164/,movie,7.3,77,2005,"Animation, Drama, Family, Fantasy, Musical, Romance",234092,2005-09-07,"Tim Burton, Mike Johnson"
+661,tt1814836,2018-10-20,2018-10-20,,Project Nim,https://www.imdb.com/title/tt1814836/,movie,7.4,93,2011,Documentary,8073,2011-01-20,James Marsh
+662,tt2013293,2018-10-20,2018-10-20,,Kaze tachinu,https://www.imdb.com/title/tt2013293/,movie,7.8,126,2013,"Animation, Biography, Drama, History, Romance, War",67294,2013-07-20,Hayao Miyazaki
+663,tt1236244,2018-10-20,2018-10-20,,Neil Young Trunk Show,https://www.imdb.com/title/tt1236244/,movie,7.4,82,2009,"Documentary, Music",99,2009-03-21,Jonathan Demme
+664,tt1391092,2018-10-20,2018-10-20,,Marwencol,https://www.imdb.com/title/tt1391092/,movie,7.6,83,2010,"Documentary, Biography, Fantasy",3332,2010-03-12,Jeff Malmberg
+665,tt0316654,2018-10-20,2018-10-20,,Spider-Man 2,https://www.imdb.com/title/tt0316654/,movie,7.3,127,2004,"Action, Adventure, Sci-Fi",525793,2004-06-25,Sam Raimi
+666,tt2396566,2018-10-20,2018-10-20,,Twenty Feet from Stardom,https://www.imdb.com/title/tt2396566/,movie,7.4,91,2013,"Documentary, Biography, Music",11904,2013-01-17,Morgan Neville
+667,tt0118147,2018-10-20,2018-10-20,,When We Were Kings,https://www.imdb.com/title/tt0118147/,movie,8.0,88,1996,"Documentary, Sport",14523,1996-01-31,Leon Gast
+668,tt4229236,2018-10-20,2018-10-20,,Cobain: Montage of Heck,https://www.imdb.com/title/tt4229236/,movie,7.5,145,2015,"Documentary, Animation, Biography, Music",27173,2015-01-24,Brett Morgen
+669,tt4385888,2018-10-20,2018-10-20,,20th Century Women,https://www.imdb.com/title/tt4385888/,movie,7.3,119,2016,"Comedy, Drama",37020,2016-10-08,Mike Mills
+670,tt0963778,2018-10-20,2018-10-20,,My Name Is Albert Ayler,https://www.imdb.com/title/tt0963778/,movie,7.1,79,2006,"Documentary, Music",111,2006-09-21,Kasper Collin
+671,tt0842929,2018-10-20,2018-10-20,,Paranoid Park,https://www.imdb.com/title/tt0842929/,movie,6.7,85,2007,"Crime, Drama, Mystery",28480,2007-05-21,Gus Van Sant
+672,tt1440266,2018-10-20,2018-10-20,,Pina,https://www.imdb.com/title/tt1440266/,movie,7.7,103,2011,"Documentary, Music",14060,2011-02-13,Wim Wenders
+673,tt1313092,2018-10-20,2018-10-20,,Animal Kingdom,https://www.imdb.com/title/tt1313092/,movie,7.3,113,2010,"Crime, Drama",53320,2010-01-22,David Michôd
+674,tt2040398,2018-10-20,2018-10-20,,La Camioneta: The Journey of One American School Bus,https://www.imdb.com/title/tt2040398/,movie,6.7,71,2012,Documentary,129,2012-03-10,Mark Kendall
+675,tt0062765,2018-10-20,2018-10-20,,Bullitt,https://www.imdb.com/title/tt0062765/,movie,7.4,114,1968,"Action, Crime, Thriller",58235,1968-10-17,Peter Yates
+676,tt0970179,2018-10-20,2018-10-20,,Hugo,https://www.imdb.com/title/tt0970179/,movie,7.5,126,2011,"Drama, Family, Fantasy, Mystery",295960,2011-10-10,Martin Scorsese
+677,tt1535109,2018-10-20,2018-10-20,,Captain Phillips,https://www.imdb.com/title/tt1535109/,movie,7.8,134,2013,"Biography, Crime, Drama, Thriller",406278,2013-09-27,Paul Greengrass
+678,tt1490017,2018-10-20,2018-10-20,,The Lego Movie,https://www.imdb.com/title/tt1490017/,movie,7.7,100,2014,"Animation, Action, Adventure, Comedy, Family, Fantasy",316295,2014-02-01,"Christopher Miller, Phil Lord"
+679,tt2425486,2018-10-20,2018-10-20,,Gloria,https://www.imdb.com/title/tt2425486/,movie,6.8,110,2013,"Comedy, Drama, Romance",8108,2013-02-10,Sebastián Lelio
+680,tt7775622,2018-10-20,2018-10-20,,Free Solo,https://www.imdb.com/title/tt7775622/,movie,8.2,100,2018,"Documentary, Adventure, Sport",47747,2018-08-31,"Jimmy Chin, Elizabeth Chai Vasarhelyi"
+681,tt4135844,2018-10-20,2018-10-20,,Ixcanul,https://www.imdb.com/title/tt4135844/,movie,7.1,93,2015,Drama,2543,2015-02-07,Jayro Bustamante
+682,tt2304426,2018-10-20,2018-10-20,,The Selfish Giant,https://www.imdb.com/title/tt2304426/,movie,7.3,91,2013,Drama,11171,2013-05-16,Clio Barnard
+683,tt1922561,2018-10-20,2018-10-20,,Book chon bang hyang,https://www.imdb.com/title/tt1922561/,movie,7.0,79,2011,"Comedy, Drama",2044,2011-05-19,Sang-soo Hong
+684,tt1257562,2018-10-20,2018-10-20,,Hadewijch,https://www.imdb.com/title/tt1257562/,movie,6.7,105,2009,Drama,1750,2009-09-11,Bruno Dumont
+685,tt0410730,2018-10-20,2018-10-20,,Taxidermia,https://www.imdb.com/title/tt0410730/,movie,6.9,91,2006,"Comedy, Drama, Horror",16010,2006-02-03,György Pálfi
+686,tt1127180,2018-10-20,2018-10-20,,Drag Me to Hell,https://www.imdb.com/title/tt1127180/,movie,6.5,99,2009,"Horror, Thriller",183213,2009-03-15,Sam Raimi
+687,tt0923752,2018-10-20,2018-10-20,,The King of Kong,https://www.imdb.com/title/tt0923752/,movie,8.1,79,2007,"Documentary, Biography, Sport",34085,2007-03-25,Seth Gordon
+688,tt0278731,2018-10-20,2018-10-20,,Spider,https://www.imdb.com/title/tt0278731/,movie,6.8,98,2002,"Drama, Mystery, Thriller",34704,2002-05-21,David Cronenberg
+689,tt0093565,2018-10-20,2018-10-20,,Moonstruck,https://www.imdb.com/title/tt0093565/,movie,7.1,102,1987,"Comedy, Drama, Romance",47045,1987-12-01,Norman Jewison
+690,tt0078748,2018-10-20,2018-10-20,,Alien,https://www.imdb.com/title/tt0078748/,movie,8.4,117,1979,"Horror, Sci-Fi",755656,1979-05-25,Ridley Scott
+691,tt0079522,2018-10-20,2018-10-20,,Manhattan,https://www.imdb.com/title/tt0079522/,movie,7.9,96,1979,"Comedy, Drama, Romance",127346,1979-04-18,Woody Allen
+692,tt2219650,2018-10-20,2018-10-20,,Seymour: An Introduction,https://www.imdb.com/title/tt2219650/,movie,7.4,84,2014,"Documentary, Biography, Music",983,2014-09-10,Ethan Hawke
+693,tt2147134,2018-10-20,2018-10-20,,56 Up,https://www.imdb.com/title/tt2147134/,tvMovie,7.9,144,2012,Documentary,1972,2012-05-14,"Michael Apted, Paul Almond"
+694,tt0491244,2018-10-20,2018-10-20,,Hak se wui: Yi woo wai kwai,https://www.imdb.com/title/tt0491244/,movie,7.4,93,2006,"Crime, Drama, Thriller",5448,2006-04-04,Johnnie To
+695,tt1193138,2018-10-20,2018-10-20,,Up in the Air,https://www.imdb.com/title/tt1193138/,movie,7.4,109,2009,"Comedy, Drama, Romance",310807,2009-09-05,Jason Reitman
+696,tt6680312,2018-10-20,2018-10-20,,Who We Are Now,https://www.imdb.com/title/tt6680312/,movie,6.4,95,2017,Drama,837,2017-09-09,Matthew Newton
+697,tt2280344,2018-10-20,2018-10-20,,Horící ker,https://www.imdb.com/title/tt2280344/,tvMiniSeries,7.9,231,2013,"Biography, Drama",1322,2013-01-27,
+698,tt0070034,2018-10-20,2018-10-20,,Enter the Dragon,https://www.imdb.com/title/tt0070034/,movie,7.7,102,1973,"Action, Crime, Drama, Thriller",92847,1973-07-26,Robert Clouse
+699,tt2355540,2018-10-20,2018-10-20,,Cutie and the Boxer,https://www.imdb.com/title/tt2355540/,movie,7.2,82,2013,"Documentary, Biography",4423,2013-01-19,Zachary Heinzerling
+700,tt0892375,2018-10-20,2018-10-20,,U2 3D,https://www.imdb.com/title/tt0892375/,movie,8.3,85,2007,"Documentary, Music",2787,2007-05-19,"Catherine Owens, Mark Pellington"
+701,tt0383694,2018-10-20,2018-10-20,,Vera Drake,https://www.imdb.com/title/tt0383694/,movie,7.6,125,2004,"Crime, Drama",23145,2004-09-06,Mike Leigh
+702,tt0378194,2018-10-20,2018-10-20,,Kill Bill: Vol. 2,https://www.imdb.com/title/tt0378194/,movie,8.0,137,2004,"Action, Crime, Thriller",657956,2004-04-08,Quentin Tarantino
+703,tt0118632,2018-10-20,2018-10-20,,The Apostle,https://www.imdb.com/title/tt0118632/,movie,7.2,134,1997,Drama,13060,1997-09-06,Robert Duvall
+704,tt0112431,2018-10-20,2018-10-20,,Babe,https://www.imdb.com/title/tt0112431/,movie,6.7,91,1995,"Comedy, Drama, Family",113584,1995-08-04,Chris Noonan
+705,tt0478411,2018-10-20,2018-10-20,,Hidden,https://www.imdb.com/title/tt0478411/,movie,4.0,93,2005,Thriller,106,,Tim McLachlan
+706,tt6634646,2018-10-20,2018-10-20,,"Hale County This Morning, This Evening",https://www.imdb.com/title/tt6634646/,movie,6.3,76,2018,Documentary,1611,2018-01-19,RaMell Ross
+707,tt7349662,2018-10-20,2018-10-20,,BlacKkKlansman,https://www.imdb.com/title/tt7349662/,movie,7.5,135,2018,"Biography, Crime, Drama",189173,2018-05-14,Spike Lee
+708,tt0841119,2018-10-20,2018-10-20,,Lake of Fire,https://www.imdb.com/title/tt0841119/,movie,8.2,152,2006,Documentary,2433,2006-09-09,Tony Kaye
+709,tt3264102,2018-10-20,2018-10-20,,Red Army,https://www.imdb.com/title/tt3264102/,movie,7.6,84,2014,"Documentary, Biography, History, Sport",6456,2014-05-16,Gabe Polsky
+710,tt0104652,2018-10-20,2018-10-20,,Kurenai no buta,https://www.imdb.com/title/tt0104652/,movie,7.7,94,1992,"Animation, Adventure, Comedy, Fantasy, Romance",71114,1992-07-18,Hayao Miyazaki
+711,tt6294822,2018-10-20,2018-10-20,,The Post,https://www.imdb.com/title/tt6294822/,movie,7.2,116,2017,"Biography, Drama, History, Thriller",125221,2017-12-14,Steven Spielberg
+712,tt2071620,2018-10-20,2018-10-20,,The Flat,https://www.imdb.com/title/tt2071620/,movie,6.9,97,2011,Documentary,1442,2011-07-11,Arnon Goldfinger
+713,tt0166924,2018-10-20,2018-10-20,,Mulholland Dr.,https://www.imdb.com/title/tt0166924/,movie,8.0,147,2001,"Drama, Mystery, Thriller",306485,2001-05-16,David Lynch
+714,tt2616810,2018-10-20,2018-10-20,,Blind,https://www.imdb.com/title/tt2616810/,movie,6.9,96,2014,Drama,7204,2014-01-17,Eskil Vogt
+715,tt5536610,2018-10-20,2018-10-20,,Private Life,https://www.imdb.com/title/tt5536610/,movie,7.2,123,2018,"Comedy, Drama",13440,2018-01-18,Tamara Jenkins
+716,tt0318411,2018-10-20,2018-10-20,,The Magdalene Sisters,https://www.imdb.com/title/tt0318411/,movie,7.7,114,2002,Drama,25334,2002-08-30,Peter Mullan
+717,tt1032821,2018-10-20,2018-10-20,,Tyson,https://www.imdb.com/title/tt1032821/,movie,7.5,90,2008,"Documentary, Biography, Sport",11965,2008-05-31,James Toback
+718,tt0097499,2018-10-20,2018-10-20,,Henry V,https://www.imdb.com/title/tt0097499/,movie,7.5,137,1989,"Action, Biography, Drama, History, Romance, War",27438,1989-10-06,Kenneth Branagh
